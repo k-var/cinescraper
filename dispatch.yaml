@@ -1,0 +1,3 @@
+dispatch:
+  - url: "cb.niweera.gq/*"
+    service: default
