@@ -1,4 +1,5 @@
 const mongoose = require("mongoose");
+const moment = require("moment");
 
 // DB Config
 const db = require("./config/keys").mongoURI;
@@ -17,11 +18,19 @@ const paheInFunction = require("./routes/functions/paheInFunction");
 const mkvcageFunction = require("./routes/functions/mkvcageFunction");
 const mkvcageMeFunction = require("./routes/functions/mkvcageMeFunction");
 const threeHundredFunction = require("./routes/functions/threeHundredFunction");
+const psaripsFunction = require("./routes/functions/psaripsFunction");
+const ytspmFunction = require("./routes/functions/ytspmFunction");
+const ytsltFunction = require("./routes/functions/ytsltFunction");
 
+var time = moment().format("h:mm:ss a");
+console.log("Server started at: " + time);
 // call site scrape functions
 setInterval(() => {
   paheInFunction();
   mkvcageFunction();
   mkvcageMeFunction();
   threeHundredFunction();
+  psaripsFunction();
+  ytspmFunction();
+  ytsltFunction();
 }, 900000);
