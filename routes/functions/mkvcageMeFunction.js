@@ -5,7 +5,7 @@ const mkvcageMe = require("../sites/mkvcageMe");
 const sendPushMsg = require("./pushbullet");
 
 const mkvcageMeFunction = () => {
-  console.log("Now running mkvcageFunction");
+  console.log("Now running mkvcageMeFunction");
   mkvcageMe()
     .then(links => {
       var namesArray = Object.keys(links);
