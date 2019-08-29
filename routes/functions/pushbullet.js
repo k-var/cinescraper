@@ -17,8 +17,7 @@ const sendPushMsg = (name, link) => {
     };
     request(options, function(err, response, body) {
       if (err) reject(err);
-      var pushMsg = "Now pushed: " + body.title;
-      resolve(pushMsg);
+      resolve(body.title);
     });
   });
 };
