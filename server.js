@@ -23,9 +23,21 @@ const ytspmFunction = require("./routes/functions/ytspmFunction");
 const ytsltFunction = require("./routes/functions/ytsltFunction");
 
 var time = moment().format("h:mm:ss a");
+var nexttime = moment().add(15, "minutes");
+
 console.log("Server started at: " + time);
+console.log(
+  "CineBot will be activated at: " + moment(nexttime).format("h:mm:ss a")
+);
+
 // call site scrape functions
 setInterval(() => {
+  time = moment().format("h:mm:ss a");
+  console.log("CineBot was activated at: " + time);
+  console.log(
+    "CineBot will be activated again at: " +
+      moment(nexttime).format("h:mm:ss a")
+  );
   paheInFunction();
   mkvcageFunction();
   mkvcageMeFunction();
@@ -33,4 +45,4 @@ setInterval(() => {
   psaripsFunction();
   ytspmFunction();
   ytsltFunction();
-}, 900000);
+}, 9000000);
