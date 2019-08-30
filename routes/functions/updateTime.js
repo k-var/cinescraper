@@ -2,7 +2,7 @@
 const Endpoint = require("../../models/Endpoint");
 
 const updateTime = (nowTime, nextTime) => {
-  const filter = { name: "CineBot last ran at:" };
+  const filter = { name: "cinebot_last_ran_at" };
   const update = { url: nowTime.toString() };
   Endpoint.findOneAndUpdate(filter, update, {
     new: true
@@ -14,7 +14,7 @@ const updateTime = (nowTime, nextTime) => {
       console.log(err);
     });
 
-  const filterTwo = { name: "CineBot will run again at:" };
+  const filterTwo = { name: "cinebot_next_run_at" };
   const updateTwo = { url: nextTime.toString() };
   Endpoint.findOneAndUpdate(filterTwo, updateTwo, {
     new: true
