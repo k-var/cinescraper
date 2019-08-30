@@ -21,35 +21,39 @@ const ytspm = () => {
       }
     };
 
-    request(options, function(err, response, body) {
-      if (err) reject(err);
+    try {
+      request(options, function(err, response, body) {
+        if (err) reject(err);
 
-      const $ = cheerio.load(body);
-      var title = {};
-      $("div.container")
-        .find("div.browse-movie-bottom")
-        .each((j, element) => {
-          var href = $(element)
-            .find(">a")
-            .attr("href");
-          if (href) {
-            title[
-              $(element)
-                .find(">a")
-                .text()
-                .trim() +
-                " (" +
+        const $ = cheerio.load(body);
+        var title = {};
+        $("div.container")
+          .find("div.browse-movie-bottom")
+          .each((j, element) => {
+            var href = $(element)
+              .find(">a")
+              .attr("href");
+            if (href) {
+              title[
                 $(element)
-                  .find(">div.browse-movie-year")
+                  .find(">a")
                   .text()
                   .trim() +
-                ")"
-            ] = yts + href;
-          }
-        });
+                  " (" +
+                  $(element)
+                    .find(">div.browse-movie-year")
+                    .text()
+                    .trim() +
+                  ")"
+              ] = yts + href;
+            }
+          });
 
-      resolve(title);
-    });
+        resolve(title);
+      });
+    } catch (e) {
+      reject(e);
+    }
   });
 };
 

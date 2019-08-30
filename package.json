@@ -1,5 +1,5 @@
 {
-  "name": "cinescrappy",
+  "name": "cinescraper",
   "version": "1.0.0",
   "description": "A web scrape bot to find the latest film download links",
   "main": "server.js",

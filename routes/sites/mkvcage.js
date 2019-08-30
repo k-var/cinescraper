@@ -39,27 +39,31 @@ const mkvcage = () => {
       // Removes a few problematic TLSv1.0 ciphers to avoid CAPTCHA
     };
 
-    cloudscraper.get(options, function(error, response, body) {
-      if (error) reject(error);
-      try {
-        if (!body) reject("MkvCage Body is undefined");
-        const $ = cheerio.load(body);
-
-        $("#main")
-          .find("h2.entry-title")
-          .each((j, element) => {
-            linksObject[$(element).text()] = $(element)
-              .find(">a")
-              .attr("href");
-          });
-        var arr = linksObject;
-
-        resolve(arr);
-      } catch (error) {
-        console.log(error);
+    try {
+      cloudscraper.get(options, function(error, response, body) {
         if (error) reject(error);
-      }
-    });
+        try {
+          if (!body) reject("MkvCage Body is undefined");
+          const $ = cheerio.load(body);
+
+          $("#main")
+            .find("h2.entry-title")
+            .each((j, element) => {
+              linksObject[$(element).text()] = $(element)
+                .find(">a")
+                .attr("href");
+            });
+          var arr = linksObject;
+
+          resolve(arr);
+        } catch (error) {
+          console.log(error);
+          if (error) reject(error);
+        }
+      });
+    } catch (e) {
+      reject(e);
+    }
   });
 };
 

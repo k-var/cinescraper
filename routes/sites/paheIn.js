@@ -19,22 +19,26 @@ const paheIn = () => {
       }
     };
 
-    request(options, function(err, response, body) {
-      if (err) reject(err);
+    try {
+      request(options, function(err, response, body) {
+        if (err) reject(err);
 
-      const $ = cheerio.load(body);
+        const $ = cheerio.load(body);
 
-      $(".cat-box-content")
-        .find("> .item-list > .post-box-title")
-        .each((j, element) => {
-          linksObject[$(element).text()] = $(element)
-            .find(">a")
-            .attr("href");
-        });
-      var arr = linksObject;
+        $(".cat-box-content")
+          .find("> .item-list > .post-box-title")
+          .each((j, element) => {
+            linksObject[$(element).text()] = $(element)
+              .find(">a")
+              .attr("href");
+          });
+        var arr = linksObject;
 
-      resolve(arr);
-    });
+        resolve(arr);
+      });
+    } catch (e) {
+      reject(e);
+    }
   });
 };
 

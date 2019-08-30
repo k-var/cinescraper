@@ -18,28 +18,32 @@ const psarips = () => {
       }
     };
 
-    request(options, function(err, response, body) {
-      if (err) reject(err);
+    try {
+      request(options, function(err, response, body) {
+        if (err) reject(err);
 
-      const $ = cheerio.load(body);
+        const $ = cheerio.load(body);
 
-      var title = {};
-      var update = {};
-      $("section.content")
-        .find(" h2.post-title > a")
-        .each((j, element) => {
-          title[$(element).text()] = $(element).attr("href");
-        });
+        var title = {};
+        var update = {};
+        $("section.content")
+          .find(" h2.post-title > a")
+          .each((j, element) => {
+            title[$(element).text()] = $(element).attr("href");
+          });
 
-      $("section.content")
-        .find(" p.caption")
-        .each((k, element) => {
-          update[Object.keys(title)[k] + " => " + $(element).text()] =
-            title[Object.keys(title)[k]];
-        });
+        $("section.content")
+          .find(" p.caption")
+          .each((k, element) => {
+            update[Object.keys(title)[k] + " => " + $(element).text()] =
+              title[Object.keys(title)[k]];
+          });
 
-      resolve(update);
-    });
+        resolve(update);
+      });
+    } catch (e) {
+      reject(e);
+    }
   });
 };
 

@@ -37,41 +37,45 @@ const ytslt = () => {
       // Removes a few problematic TLSv1.0 ciphers to avoid CAPTCHA
     };
 
-    cloudscraper.get(options, function(error, response, body) {
-      if (error) reject(error);
-      try {
-        if (!body) reject("yts.lt Body is undefined");
-        const $ = cheerio.load(body);
+    try {
+      cloudscraper.get(options, function(error, response, body) {
+        if (error) reject(error);
+        try {
+          if (!body) reject("yts.lt Body is undefined");
+          const $ = cheerio.load(body);
 
-        var title = {};
-        $("div.container")
-          .find("div.browse-movie-bottom")
-          .each((j, element) => {
-            var href = $(element)
-              .find(">a")
-              .attr("href");
-            if (href) {
-              title[
-                $(element)
-                  .find(">a")
-                  .text()
-                  .trim() +
-                  " (" +
+          var title = {};
+          $("div.container")
+            .find("div.browse-movie-bottom")
+            .each((j, element) => {
+              var href = $(element)
+                .find(">a")
+                .attr("href");
+              if (href) {
+                title[
                   $(element)
-                    .find(">div.browse-movie-year")
+                    .find(">a")
                     .text()
                     .trim() +
-                  ")"
-              ] = href;
-            }
-          });
+                    " (" +
+                    $(element)
+                      .find(">div.browse-movie-year")
+                      .text()
+                      .trim() +
+                    ")"
+                ] = href;
+              }
+            });
 
-        resolve(title);
-      } catch (error) {
-        console.log(error);
-        if (error) reject(error);
-      }
-    });
+          resolve(title);
+        } catch (error) {
+          console.log(error);
+          if (error) reject(error);
+        }
+      });
+    } catch (e) {
+      reject(e);
+    }
   });
 };
 
