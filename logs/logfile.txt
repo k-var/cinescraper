@@ -1727,3 +1727,6 @@ CineBot will be activated at: 11:50:08 am
 Server started at: 12:02:26 pm
 CineBot will be activated at: 12:17:26 pm
 Successfully Connected to MongoDB
+Server started at: 12:08:07 pm
+CineBot will be activated at: 12:23:07 pm
+Successfully Connected to MongoDB
