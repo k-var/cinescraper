@@ -24,11 +24,17 @@ const tamilmv = () => {
 
         const $ = cheerio.load(body);
 
-        var sibling = $("p>span")
+        $("div.ipsWidget_inner >p>br")
           .siblings()
-          .text();
+          .each((j, element) => {
+            console.log(
+              $(element)
+                .find("span>strong")
+                .text()
+            );
+          });
 
-        resolve(sibling);
+        resolve([]);
       });
     } catch (e) {
       reject(e);
