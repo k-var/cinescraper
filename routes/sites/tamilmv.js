@@ -27,6 +27,7 @@ const tamilmv = () => {
 
         var title = [];
         var link_ = [];
+        var urlObject = {};
 
         $("div.ipsWidget_inner")
           .find("strong")
@@ -53,9 +54,15 @@ const tamilmv = () => {
             }
           });
 
-        const matchedTitles = title.filter(link => link.includes("ESub"));
+        const matchedTitles = title.filter(
+          link => link.includes("ESub") && /\d/.test(link)
+        );
 
-        resolve(matchedTitles.length);
+        matchedTitles.forEach((t, index) => {
+          urlObject[t] = matchedSites[index];
+        });
+
+        resolve(urlObject);
       });
     } catch (e) {
       reject(e);
