@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "server": "nodemon server.js"
+    "server": "nodemon server.js",
+    "runforever": "forever start -a -l C:/Users/wnipu/Documents/GitHub/cinescraper/logs/logfile.txt -e C:/Users/wnipu/Documents/GitHub/cinescraper/logs/stderrlog.txt -o C:/Users/wnipu/Documents/GitHub/cinescraper/logs/stdoutlog.txt server.js"
   },
   "author": "Nipuna Weerasekara",
   "license": "MIT",
@@ -15,6 +16,7 @@
     "chai-http": "^4.3.0",
     "cheerio": "^1.0.0-rc.3",
     "cloudscraper": "^4.1.4",
+    "forever": "^1.0.0",
     "mocha": "^6.2.0",
     "moment": "^2.24.0",
     "mongoose": "^5.6.9",
