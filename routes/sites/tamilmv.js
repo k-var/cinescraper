@@ -1,5 +1,6 @@
 const cheerio = require("cheerio");
 const request = require("request");
+const _ = require("lodash");
 
 var url;
 var options = {};
@@ -38,7 +39,9 @@ const tamilmv = () => {
               update.push(_link);
             }
           });
-        const matchedSites = update.filter(link => !link.match(regex));
+
+        const uniqueArray = _.uniq(update);
+        const matchedSites = uniqueArray.filter(link => !link.match(regex));
         resolve(matchedSites);
       });
     } catch (e) {
