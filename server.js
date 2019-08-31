@@ -42,8 +42,8 @@ setInterval(() => {
   nextTime = moment(next_time).format("h:mm:ss a");
   updateTime(nowTime, nextTime);
   paheInFunction();
-  mkvcageFunction();
-  mkvcageMeFunction();
+  // mkvcageFunction(); //site is down
+  // mkvcageMeFunction(); //site is down
   threeHundredFunction();
   psaripsFunction();
   ytspmFunction();

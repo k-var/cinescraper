@@ -1716,3 +1716,11 @@ TypeError: Cannot read property 'parent' of undefined
     at IncomingMessage.emit (events.js:194:15)
     at endReadableNT (_stream_readable.js:1125:12)
     at process._tickCallback (internal/process/next_tick.js:63:19) name: 'CloudflareError', message: '524, A timeout occurred' }
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+Server started at: 11:35:06 am
+CineBot will be activated at: 11:50:06 am
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+Server started at: 11:35:08 am
+CineBot will be activated at: 11:50:08 am
