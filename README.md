@@ -2,7 +2,6 @@
 [![HitCount](http://hits.dwyl.io/Niweera/cinescraper.svg)](http://hits.dwyl.io/Niweera/cinescraper)
 [![Known Vulnerabilities](https://snyk.io//test/github/Niweera/cinescraper/badge.svg?targetFile=package.json)](https://snyk.io//test/github/Niweera/cinescraper?targetFile=package.json)
 ![GitHub issues](https://img.shields.io/github/issues/Niweera/cinescraper)
-
 [![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/dwyl/goodparts "JavaScript The Good Parts")
 
 
