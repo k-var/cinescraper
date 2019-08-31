@@ -25,9 +25,8 @@ const tamilmv = () => {
 
         const $ = cheerio.load(body);
 
-        var title = {};
-        var update = [];
-        const regex = new RegExp("/esub/", "g");
+        var title = [];
+        var link_ = [];
 
         $("div.ipsWidget_inner")
           .find("strong")
@@ -36,13 +35,27 @@ const tamilmv = () => {
               .find(">u>a")
               .attr("href");
             if (_link) {
-              update.push(_link);
+              link_.push(_link);
             }
           });
 
-        const uniqueArray = _.uniq(update);
-        const matchedSites = uniqueArray.filter(link => !link.match(regex));
-        resolve(matchedSites);
+        const uniqueArray = _.uniq(link_);
+        const matchedSites = uniqueArray.filter(link => link.includes("esub"));
+
+        $("div.ipsWidget_inner")
+          .find("span>span")
+          .each((j, element) => {
+            var _link = $(element)
+              .find(">strong")
+              .text();
+            if (_link) {
+              title.push(_link);
+            }
+          });
+
+        const matchedTitles = title.filter(link => link.includes("ESub"));
+
+        resolve(matchedTitles.length);
       });
     } catch (e) {
       reject(e);
