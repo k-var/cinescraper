@@ -24,7 +24,11 @@ const tamilmv = () => {
 
         const $ = cheerio.load(body);
 
-        resolve({});
+        var sibling = $("p>span")
+          .siblings()
+          .text();
+
+        resolve(sibling);
       });
     } catch (e) {
       reject(e);
