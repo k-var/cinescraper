@@ -326,3 +326,191 @@ MkvCage.me error: Link name exists!
 300mbfilms.io error: Link name exists!
 300mbfilms.io error: Link name exists!
 300mbfilms.io error: Link name exists!
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '4:52:56 pm' }
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '4:37:56 pm' }
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+{ _id: 5d6a550ebeea432f681ddd88,
+  name: 'It\'s Christmas, Eve (2018)',
+  link: 'https://yts.pm/movies/its-christmas-eve-2018',
+  __v: 0 }
+{ _id: 5d6a550ebeea432f681ddd8b,
+  name: 'Hitokowa (2012)',
+  link: 'https://yts.pm/movies/hitokowa-2012',
+  __v: 0 }
+{ _id: 5d6a550ebeea432f681ddd8c,
+  name: 'My Secret Valentine (2018)',
+  link: 'https://yts.pm/movies/my-secret-valentine-2018',
+  __v: 0 }
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+{ _id: 5d6a550ebeea432f681ddd8a,
+  name: 'Happiness is a Four-Letter Word (2016)',
+  link: 'https://yts.pm/movies/happiness-is-a-four-letter-word-2016',
+  __v: 0 }
+Pahe.in error: Link name exists!
+{ _id: 5d6a550ebeea432f681ddd8f,
+  name: 'Shooting for Home (2012)',
+  link: 'https://yts.pm/movies/shooting-for-home-2012',
+  __v: 0 }
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+{ _id: 5d6a550ebeea432f681ddd89,
+  name: '2040 (2019)',
+  link: 'https://yts.pm/movies/2040-2019',
+  __v: 0 }
+{ _id: 5d6a550ebeea432f681ddd8e,
+  name: 'Demon Hole (2017)',
+  link: 'https://yts.pm/movies/demon-hole-2017',
+  __v: 0 }
+{ _id: 5d6a550ebeea432f681ddd8d,
+  name: 'Saving You, Saving Me (2019)',
+  link: 'https://yts.pm/movies/saving-you-saving-me-2019',
+  __v: 0 }
+{ _id: 5d6a550ebeea432f681ddd90,
+  name: 'From the Ground Up (2017)',
+  link: 'https://yts.pm/movies/from-the-ground-up-2017',
+  __v: 0 }
+{ _id: 5d6a550ebeea432f681ddd94,
+  name: 'Nothing Like a Dame (2018)',
+  link: 'https://yts.pm/movies/nothing-like-a-dame-2018',
+  __v: 0 }
+{ _id: 5d6a550ebeea432f681ddd95,
+  name: 'Tabernacle 101 (2019)',
+  link: 'https://yts.pm/movies/tabernacle-101-2019',
+  __v: 0 }
+{ _id: 5d6a550ebeea432f681ddd93,
+  name: 'Payback Season (2012)',
+  link: 'https://yts.pm/movies/payback-season-2012',
+  __v: 0 }
+{ _id: 5d6a550ebeea432f681ddd98,
+  name: 'Animales sin collar (2018)',
+  link: 'https://yts.pm/movies/animales-sin-collar-2018',
+  __v: 0 }
+MkvCage.me error: Link name exists!
+It's Christmas, Eve (2018)
+{ _id: 5d6a550ebeea432f681ddd91,
+  name: 'Stiv (2019)',
+  link: 'https://yts.pm/movies/stiv-2019',
+  __v: 0 }
+{ _id: 5d6a550ebeea432f681ddd96,
+  name: 'Crafting a Nation (2013)',
+  link: 'https://yts.pm/movies/crafting-a-nation-2013',
+  __v: 0 }
+{ _id: 5d6a550ebeea432f681ddd9b,
+  name: 'Tio Papi (2013)',
+  link: 'https://yts.pm/movies/tio-papi-2013',
+  __v: 0 }
+MkvCage.me error: Link name exists!
+{ _id: 5d6a550ebeea432f681ddd92,
+  name:
+   'Masterpiece: Frank Miller\'s The Dark Knight Returns (2013)',
+  link:
+   'https://yts.pm/movies/masterpiece-frank-millers-the-dark-knight-returns-2013',
+  __v: 0 }
+{ _id: 5d6a550ebeea432f681ddd97,
+  name: 'Gunned Down (2017)',
+  link: 'https://yts.pm/movies/gunned-down-2017',
+  __v: 0 }
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+Hitokowa (2012)
+{ _id: 5d6a550ebeea432f681ddd99,
+  name: 'Meditation Park (2017)',
+  link: 'https://yts.pm/movies/meditation-park-2017',
+  __v: 0 }
+MkvCage.me error: Link name exists!
+{ _id: 5d6a550ebeea432f681ddd9a,
+  name: 'Levitated Mass (2013)',
+  link: 'https://yts.pm/movies/levitated-mass-2013',
+  __v: 0 }
+MkvCage.me error: Link name exists!
+Happiness is a Four-Letter Word (2016)
+Saving You, Saving Me (2019)
+2040 (2019)
+Shooting for Home (2012)
+Demon Hole (2017)
+My Secret Valentine (2018)
+From the Ground Up (2017)
+Nothing Like a Dame (2018)
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Tabernacle 101 (2019)
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Crafting a Nation (2013)
+Masterpiece: Frank Miller's The Dark Knight Returns (2013)
+Meditation Park (2017)
+Payback Season (2012)
+Animales sin collar (2018)
+Tio Papi (2013)
+Gunned Down (2017)
+Stiv (2019)
+Levitated Mass (2013)
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
