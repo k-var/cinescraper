@@ -1561,3 +1561,158 @@ CineBot will be activated at: 10:21:42 am
 Server started at: 11:09:12 am
 CineBot will be activated at: 11:24:12 am
 Successfully Connected to MongoDB
+Now running paheInFunction
+Now running mkvcageFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+TypeError: Cannot read property 'parent' of undefined
+    at Function.exports.update (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:69:26)
+    at module.exports (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:19:11)
+    at Function.exports.load (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\static.js:27:14)
+    at Request._callback (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\sites\mkvcage.js:47:29)
+    at self.callback (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:185:22)
+    at onRequestResponse (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:153:12)
+    at Request.<anonymous> (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:132:7)
+    at Object.onceWrapper (events.js:277:13)
+    at Request.emit (events.js:189:13)
+    at Request.onRequestError (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:881:8)
+    at ClientRequest.emit (events.js:189:13)
+    at TLSSocket.socketErrorListener (_http_client.js:392:9)
+    at TLSSocket.emit (events.js:189:13)
+    at emitErrorNT (internal/streams/destroy.js:82:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+{ RequestError: Error: getaddrinfo ENOTFOUND www.mkvcage.fun www.mkvcage.fun:443
+    at onRequestResponse (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:153:21)
+    at Request.<anonymous> (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:132:7)
+    at Object.onceWrapper (events.js:277:13)
+    at Request.emit (events.js:189:13)
+    at Request.onRequestError (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:881:8)
+    at ClientRequest.emit (events.js:189:13)
+    at TLSSocket.socketErrorListener (_http_client.js:392:9)
+    at TLSSocket.emit (events.js:189:13)
+    at emitErrorNT (internal/streams/destroy.js:82:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  name: 'RequestError',
+  message:
+   'Error: getaddrinfo ENOTFOUND www.mkvcage.fun www.mkvcage.fun:443' }
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '11:24:12 am' }
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '11:39:12 am' }
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+300mbfilms.io error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+yts.lt error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+yts.lt error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+TypeError: Cannot read property 'parent' of undefined
+    at Function.exports.update (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:69:26)
+    at module.exports (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:19:11)
+    at Function.exports.load (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\static.js:27:14)
+    at Request._callback (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\sites\mkvcageMe.js:47:29)
+    at self.callback (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:185:22)
+    at onCloudflareResponse (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:202:12)
+    at onRequestResponse (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:178:5)
+    at Request.<anonymous> (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:137:7)
+    at Object.onceWrapper (events.js:277:13)
+    at Request.emit (events.js:189:13)
+    at Request.<anonymous> (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:1161:10)
+    at Request.emit (events.js:189:13)
+    at IncomingMessage.<anonymous> (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:1083:12)
+    at Object.onceWrapper (events.js:277:13)
+    at IncomingMessage.emit (events.js:194:15)
+    at endReadableNT (_stream_readable.js:1125:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+{ CloudflareError: 524, A timeout occurred
+    at validateResponse (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:240:11)
+    at onCloudflareResponse (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:195:5)
+    at onRequestResponse (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:178:5)
+    at Request.<anonymous> (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:137:7)
+    at Object.onceWrapper (events.js:277:13)
+    at Request.emit (events.js:189:13)
+    at Request.<anonymous> (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:1161:10)
+    at Request.emit (events.js:189:13)
+    at IncomingMessage.<anonymous> (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:1083:12)
+    at Object.onceWrapper (events.js:277:13)
+    at IncomingMessage.emit (events.js:194:15)
+    at endReadableNT (_stream_readable.js:1125:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19) name: 'CloudflareError', message: '524, A timeout occurred' }
