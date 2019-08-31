@@ -1,0 +1,116 @@
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '3:52:56 pm' }
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '4:07:56 pm' }
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+{ _id: 5d6a4a81beea432f681ddd86,
+  name: 'Heart Surgeons Season 1 Complete WEB-DL 480p & 720p',
+  link:
+   'https://pahe.in/heart-surgeons-season-1-complete-web-dl-480p-720p/',
+  __v: 0 }
+300mbfilms.io error: Link name exists!
+{ _id: 5d6a4a81beea432f681ddd87,
+  name: 'Downward Dog Season 1 Complete WEB-DL 720p',
+  link:
+   'https://pahe.in/downward-dog-season-1-complete-web-dl-720p/',
+  __v: 0 }
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Downward Dog Season 1 Complete WEB-DL 720p
+Heart Surgeons Season 1 Complete WEB-DL 480p & 720p
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
