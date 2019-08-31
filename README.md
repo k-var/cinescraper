@@ -1,10 +1,10 @@
-<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![HitCount](http://hits.dwyl.io/Niweera/wordhunter-api.svg)](http://hits.dwyl.io/Niweera/wordhunter-api)
-[![Known Vulnerabilities](https://snyk.io//test/github/Niweera/wordhunter-api/badge.svg?targetFile=package.json)](https://snyk.io//test/github/Niweera/wordhunter-api?targetFile=package.json)
-![GitHub issues](https://img.shields.io/github/issues/Niweera/wordhunter-api)
-![Website](https://img.shields.io/website/https/wh.niweera.gq?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![HitCount](http://hits.dwyl.io/Niweera/cinescraper.svg)](http://hits.dwyl.io/Niweera/cinescraper)
+[![Known Vulnerabilities](https://snyk.io//test/github/Niweera/cinescraper/badge.svg?targetFile=package.json)](https://snyk.io//test/github/Niweera/cinescraper?targetFile=package.json)
+![GitHub issues](https://img.shields.io/github/issues/Niweera/cinescraper)
+
 [![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/dwyl/goodparts "JavaScript The Good Parts")
-[![Build Status](https://travis-ci.com/Niweera/wordhunter-api.svg?branch=master)](https://travis-ci.com/Niweera/wordhunter-api) -->
+
 
 # CineScraper
 
