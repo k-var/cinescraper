@@ -1540,3 +1540,128 @@ MkvCage.me error: Link name exists!
 MkvCage.me error: Link name exists!
 MkvCage.me error: Link name exists!
 MkvCage.me error: Link name exists!
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '7:07:56 pm' }
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '7:22:56 pm' }
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+Pahe.in error: Link name exists!
+yts.pm error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+yts.pm error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+{ _id: 5d6a7836beea432f681ddda2,
+  name: 'Sunshine (1999) WEB-HD 480p & 720p',
+  link: 'https://pahe.in/sunshine-1999-web-hd-480p-720p/',
+  __v: 0 }
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+300mbfilms.io error: Link name exists!
+{ _id: 5d6a7837beea432f681ddda3,
+  name: 'Birds of Passage (2018) BluRay 480p & 720p',
+  link: 'https://pahe.in/birds-of-passage-2018-bluray-480p-720p-2/',
+  __v: 0 }
+{ _id: 5d6a7837beea432f681ddda4,
+  name: 'Sholay (1975) WEB-HD 480p & 720p',
+  link: 'https://pahe.in/sholay-1975-web-hd-480p-720p/',
+  __v: 0 }
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+Sholay (1975) WEB-HD 480p & 720p
+Sunshine (1999) WEB-HD 480p & 720p
+Birds of Passage (2018) BluRay 480p & 720p
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
