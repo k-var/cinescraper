@@ -59,7 +59,13 @@ const tamilmv = () => {
         );
 
         matchedTitles.forEach((t, index) => {
-          urlObject[t] = matchedSites[index];
+          let brokenTitle = t.split(" ");
+          matchedSites.forEach(s => {
+            let check = brokenTitle.some(b => s.includes(b.toLowerCase()));
+            if (check) {
+              console.log(t, s);
+            }
+          });
         });
 
         resolve(urlObject);
