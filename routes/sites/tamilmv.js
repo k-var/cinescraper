@@ -64,6 +64,7 @@ const tamilmv = () => {
             s
               .replace("https://www.tamilmv.bid/index.php?/forums/topic/", "")
               .replace(/^.[0-9]*-/, "")
+              .replace(/([-a-z]*[0-9]{4}\w)([a-z0-9-]*\/)/, "")
           );
         });
 
