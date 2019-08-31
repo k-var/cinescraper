@@ -26,10 +26,20 @@ const tamilmv = () => {
 
         var title = {};
         var update = [];
+        const regex = new RegExp("/esub/", "g");
 
-        update = $("div.ipsWidget_inner").find("strong");
-
-        resolve(update);
+        $("div.ipsWidget_inner")
+          .find("strong")
+          .each((j, element) => {
+            var _link = $(element)
+              .find(">u>a")
+              .attr("href");
+            if (_link) {
+              update.push(_link);
+            }
+          });
+        const matchedSites = update.filter(link => !link.match(regex));
+        resolve(matchedSites);
       });
     } catch (e) {
       reject(e);
