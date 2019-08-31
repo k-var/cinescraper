@@ -58,8 +58,13 @@ const tamilmv = () => {
           link => link.includes("ESub") && /\d/.test(link)
         );
 
+        ("^https://www.tamilmv.bid/index.php?/forums/topic/+[0-9]*-");
         matchedSites.forEach(s => {
-          console.log(s);
+          console.log(
+            s
+              .replace("https://www.tamilmv.bid/index.php?/forums/topic/", "")
+              .replace(/^.[0-9]*-/, "")
+          );
         });
 
         resolve({});
