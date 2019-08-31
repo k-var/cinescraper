@@ -519,3 +519,108 @@ PSARips error: Link name exists!
 PSARips error: Link name exists!
 PSARips error: Link name exists!
 PSARips error: Link name exists!
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '11:22:56 pm' }
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '11:37:56 pm' }
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+yts.lt error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+PSARips error: Link name exists!
+{ _id: 5d6ab55cbeea432f681dddaa,
+  name: 'Harlots => Update -> S03E08.720p.10bit.WEBRip',
+  link: 'https://psarips.eu/tv-show/harlots/',
+  __v: 0 }
+{ _id: 5d6ab55bbeea432f681ddda9,
+  name: 'Killjoys => Update -> S05E07.720p.10bit.WEBRip',
+  link: 'https://psarips.eu/tv-show/killjoys/',
+  __v: 0 }
+yts.lt error: Link name exists!
+Harlots => Update -> S03E08.720p.10bit.WEBRip
+yts.lt error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Killjoys => Update -> S05E07.720p.10bit.WEBRip
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '11:52:56 pm' }
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '11:37:56 pm' }
+C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:69
+    var oldParent = node.parent || node.root,
+                         ^
+
+TypeError: Cannot read property 'parent' of undefined
+    at Function.exports.update (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:69:26)
+    at module.exports (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:19:11)
+    at Function.exports.load (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\static.js:27:14)
+    at Request._callback (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\sites\psarips.js:25:27)
+    at self.callback (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:189:13)
+    at Request.onRequestError (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:881:8)
+    at ClientRequest.emit (events.js:189:13)
+    at TLSSocket.socketErrorListener (_http_client.js:392:9)
+    at TLSSocket.emit (events.js:189:13)
+    at emitErrorNT (internal/streams/destroy.js:82:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+Server started at: 11:38:08 pm
+CineBot will be activated at: 11:53:08 pm
+Successfully Connected to MongoDB
