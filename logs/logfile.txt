@@ -1558,3 +1558,6 @@ error: Forever detected script exited with code: 1
 error: Script restart attempt #3
 Server started at: 10:06:42 am
 CineBot will be activated at: 10:21:42 am
+Server started at: 11:09:12 am
+CineBot will be activated at: 11:24:12 am
+Successfully Connected to MongoDB
