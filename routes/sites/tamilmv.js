@@ -1,6 +1,5 @@
 const cheerio = require("cheerio");
 const request = require("request");
-const _ = require("lodash");
 
 var url;
 var options = {};
@@ -25,50 +24,7 @@ const tamilmv = () => {
 
         const $ = cheerio.load(body);
 
-        var title = [];
-        var link_ = [];
-        var urlObject = {};
-
-        $("div.ipsWidget_inner")
-          .find("strong")
-          .each((j, element) => {
-            var _link = $(element)
-              .find(">u>a")
-              .attr("href");
-            if (_link) {
-              link_.push(_link);
-            }
-          });
-
-        const uniqueArray = _.uniq(link_);
-        const matchedSites = uniqueArray.filter(link => link.includes("esub"));
-
-        $("div.ipsWidget_inner")
-          .find("span>span")
-          .each((j, element) => {
-            var _link = $(element)
-              .find(">strong")
-              .text();
-            if (_link) {
-              title.push(_link);
-            }
-          });
-
-        const matchedTitles = title.filter(
-          link => link.includes("ESub") && /\d/.test(link)
-        );
-
-        matchedTitles.forEach((t, index) => {
-          let brokenTitle = t.split(" ");
-          matchedSites.forEach(s => {
-            let check = brokenTitle.some(b => s.includes(b.toLowerCase()));
-            if (check) {
-              console.log(t, s);
-            }
-          });
-        });
-
-        resolve(urlObject);
+        resolve({});
       });
     } catch (e) {
       reject(e);
