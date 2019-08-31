@@ -1,5 +1,6 @@
 const cheerio = require("cheerio");
 const request = require("request");
+const _ = require("lodash");
 
 var url;
 var options = {};
@@ -24,17 +25,44 @@ const tamilmv = () => {
 
         const $ = cheerio.load(body);
 
-        $("div.ipsWidget_inner >p>br")
-          .siblings()
+        var title = [];
+        var link_ = [];
+        var urlObject = {};
+
+        $("div.ipsWidget_inner")
+          .find("strong")
           .each((j, element) => {
-            console.log(
-              $(element)
-                .find("span>strong")
-                .text()
-            );
+            var _link = $(element)
+              .find(">u>a")
+              .attr("href");
+            if (_link) {
+              link_.push(_link);
+            }
           });
 
-        resolve([]);
+        const uniqueArray = _.uniq(link_);
+        const matchedSites = uniqueArray.filter(link => link.includes("esub"));
+
+        $("div.ipsWidget_inner")
+          .find("span>span")
+          .each((j, element) => {
+            var _link = $(element)
+              .find(">strong")
+              .text();
+            if (_link) {
+              title.push(_link);
+            }
+          });
+
+        const matchedTitles = title.filter(
+          link => link.includes("ESub") && /\d/.test(link)
+        );
+
+        matchedSites.forEach(s => {
+          console.log(s);
+        });
+
+        resolve({});
       });
     } catch (e) {
       reject(e);
