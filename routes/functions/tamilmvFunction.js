@@ -1,11 +1,12 @@
 // Load Item model
 const Item = require("../../models/Item");
-const tamilmv = require("../sites/tamilmv");
+const tamilWeb = require("../sites/tamilmv/tamilWeb");
 const sendPushMsg = require("./pushbullet");
 
 const tamilmvFunction = () => {
-  console.log("Now running psaripsFunction");
-  tamilmv()
+  console.log("Now running tamilmvFunction");
+  //tamil web
+  tamilWeb()
     .then(links => {
       console.log(links);
       // var namesArray = Object.keys(links);
