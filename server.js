@@ -15,7 +15,6 @@ mongoose
 //The following sites functions are used to scrape the film sites and update the linkhub database links collection
 //import sites scrape functions
 const paheInFunction = require("./routes/functions/paheInFunction");
-const mkvcageFunction = require("./routes/functions/mkvcageFunction");
 const mkvcageMeFunction = require("./routes/functions/mkvcageMeFunction");
 const threeHundredFunction = require("./routes/functions/threeHundredFunction");
 const psaripsFunction = require("./routes/functions/psaripsFunction");
@@ -37,18 +36,16 @@ const runInterval = 900000;
 const updateTime = require("./routes/functions/updateTime");
 
 // call site scrape functions
-// setInterval(() => {
-//   nowTime = moment().format("h:mm:ss a");
-//   next_time = moment().add(15, "minutes");
-//   nextTime = moment(next_time).format("h:mm:ss a");
-//   updateTime(nowTime, nextTime);
-//   paheInFunction();
-//   // mkvcageFunction(); //site is down
-//   mkvcageMeFunction();
-//   threeHundredFunction();
-//   psaripsFunction();
-//   ytspmFunction();
-//   ytsltFunction();
-// }, runInterval);
-
-tamilmvFunction();
+setInterval(() => {
+  nowTime = moment().format("h:mm:ss a");
+  next_time = moment().add(15, "minutes");
+  nextTime = moment(next_time).format("h:mm:ss a");
+  updateTime(nowTime, nextTime);
+  paheInFunction();
+  mkvcageMeFunction();
+  threeHundredFunction();
+  psaripsFunction();
+  ytspmFunction();
+  ytsltFunction();
+  tamilmvFunction();
+}, runInterval);
