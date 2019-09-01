@@ -622,3 +622,261 @@ MkvCage.me error: Link name exists!
 MkvCage.me error: Link name exists!
 MkvCage.me error: Link name exists!
 MkvCage.me error: Link name exists!
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+Now running tamilmvFunction
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '3:21:43 pm' }
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '3:06:43 pm' }
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+{ _id: 5d6b912d3ec3b03364adaed1,
+  name: 'Royally Ever After (2018) BRRip 575MB nItRo',
+  link:
+   'https://www.300mbfilms.io/royally-ever-after-2018-brrip-575mb-nitro',
+  __v: 0 }
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+{ _id: 5d6b912d3ec3b03364adaed4,
+  name: 'The 16th Episode (2019) BRRip 600MB nItRo',
+  link:
+   'https://www.300mbfilms.io/the-16th-episode-2019-brrip-600mb-nitro',
+  __v: 0 }
+{ _id: 5d6b912d3ec3b03364adaed5,
+  name: 'UFC Fight Night 157 Prelims HDTV 725MB nItRo',
+  link:
+   'https://www.300mbfilms.io/ufc-fight-night-157-prelims-hdtv-725mb-nitro',
+  __v: 0 }
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+{ _id: 5d6b912d3ec3b03364adaed2,
+  name: 'The Terror S02E04 720p HDTV 300MB nItRo',
+  link:
+   'https://www.300mbfilms.io/the-terror-s02e04-720p-hdtv-300mb-nitro',
+  __v: 0 }
+{ _id: 5d6b912d3ec3b03364adaed7,
+  name: 'Power 2014 S06E02 720p WEB 400MB nItRo',
+  link:
+   'https://www.300mbfilms.io/power-2014-s06e02-720p-web-400mb-nitro',
+  __v: 0 }
+{ _id: 5d6b912d3ec3b03364adaed6,
+  name: 'Bikes (2018) BRRip 550MB nItRo',
+  link: 'https://www.300mbfilms.io/bikes-2018-brrip-550mb-nitro',
+  __v: 0 }
+{ _id: 5d6b912d3ec3b03364adaed3,
+  name: 'Yesterday’s Girl (2018) 720p WEB-DL 575MB nItRo',
+  link:
+   'https://www.300mbfilms.io/yesterdays-girl-2018-720p-web-dl-575mb-nitro',
+  __v: 0 }
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+{ _id: 5d6b912d3ec3b03364adaed8,
+  name:
+   'UFC Fight Night 157 Andrade Vs. Zhang HDTV [Main Card] 750MB nItRo',
+  link:
+   'https://www.300mbfilms.io/ufc-fight-night-157-andrade-vs-zhang-hdtv-main-card-750mb-nitro',
+  __v: 0 }
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+UFC Fight Night 157 Prelims HDTV 725MB nItRo
+The 16th Episode (2019) BRRip 600MB nItRo
+Royally Ever After (2018) BRRip 575MB nItRo
+Bikes (2018) BRRip 550MB nItRo
+The Terror S02E04 720p HDTV 300MB nItRo
+Power 2014 S06E02 720p WEB 400MB nItRo
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+UFC Fight Night 157 Andrade Vs. Zhang HDTV [Main Card] 750MB nItRo
+yts.lt error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+{ _id: 5d6b91323ec3b03364adaed9,
+  name: 'Power => Update -> S06E02.720p-1080p.10bit.WEBRip',
+  link: 'https://psarips.eu/tv-show/power/',
+  __v: 0 }
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+Power => Update -> S06E02.720p-1080p.10bit.WEBRip
+Yesterday’s Girl (2018) 720p WEB-DL 575MB nItRo
