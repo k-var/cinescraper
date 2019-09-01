@@ -60,302 +60,302 @@ const tamilmvFunction = () => {
       console.log(err);
     });
 
-  // //tamil rips
-  // tamilmv(tamilRips)
-  //   .then(links => {
-  //     var namesArray = Object.keys(links);
-  //     namesArray.forEach((name, index) => {
-  //       const newItem = { name: name, link: links[name] };
-  //       Item.findOne({ name: name }).then(item => {
-  //         if (item) {
-  //           //throw an error
-  //           console.log("Tamilmv error: Link name exists!");
-  //         } else {
-  //           //create new item
-  //           new Item(newItem)
-  //             .save()
-  //             .then(item => {
-  //               console.log(item);
-  //               sendPushMsg(item.name, item.link)
-  //                 .then(res => {
-  //                   console.log(res);
-  //                 })
-  //                 .catch(err => {
-  //                   console.log(err);
-  //                 });
-  //             })
-  //             .catch(err => console.log(err));
-  //         }
-  //       });
-  //     });
-  //   })
-  //   .catch(err => {
-  //     console.log(err);
-  //   });
+  //tamil rips
+  tamilmv(tamilRips)
+    .then(links => {
+      var namesArray = Object.keys(links);
+      namesArray.forEach((name, index) => {
+        const newItem = { name: name, link: links[name] };
+        Item.findOne({ name: name }).then(item => {
+          if (item) {
+            //throw an error
+            console.log("Tamilmv error: Link name exists!");
+          } else {
+            //create new item
+            new Item(newItem)
+              .save()
+              .then(item => {
+                console.log(item);
+                sendPushMsg(item.name, item.link)
+                  .then(res => {
+                    console.log(res);
+                  })
+                  .catch(err => {
+                    console.log(err);
+                  });
+              })
+              .catch(err => console.log(err));
+          }
+        });
+      });
+    })
+    .catch(err => {
+      console.log(err);
+    });
 
-  // //telugu web
-  // tamilmv(teluguWeb)
-  //   .then(links => {
-  //     var namesArray = Object.keys(links);
-  //     namesArray.forEach((name, index) => {
-  //       const newItem = { name: name, link: links[name] };
-  //       Item.findOne({ name: name }).then(item => {
-  //         if (item) {
-  //           //throw an error
-  //           console.log("Tamilmv error: Link name exists!");
-  //         } else {
-  //           //create new item
-  //           new Item(newItem)
-  //             .save()
-  //             .then(item => {
-  //               console.log(item);
-  //               sendPushMsg(item.name, item.link)
-  //                 .then(res => {
-  //                   console.log(res);
-  //                 })
-  //                 .catch(err => {
-  //                   console.log(err);
-  //                 });
-  //             })
-  //             .catch(err => console.log(err));
-  //         }
-  //       });
-  //     });
-  //   })
-  //   .catch(err => {
-  //     console.log(err);
-  //   });
+  //telugu web
+  tamilmv(teluguWeb)
+    .then(links => {
+      var namesArray = Object.keys(links);
+      namesArray.forEach((name, index) => {
+        const newItem = { name: name, link: links[name] };
+        Item.findOne({ name: name }).then(item => {
+          if (item) {
+            //throw an error
+            console.log("Tamilmv error: Link name exists!");
+          } else {
+            //create new item
+            new Item(newItem)
+              .save()
+              .then(item => {
+                console.log(item);
+                sendPushMsg(item.name, item.link)
+                  .then(res => {
+                    console.log(res);
+                  })
+                  .catch(err => {
+                    console.log(err);
+                  });
+              })
+              .catch(err => console.log(err));
+          }
+        });
+      });
+    })
+    .catch(err => {
+      console.log(err);
+    });
 
-  // //telugu rips
-  // tamilmv(teluguRips)
-  //   .then(links => {
-  //     var namesArray = Object.keys(links);
-  //     namesArray.forEach((name, index) => {
-  //       const newItem = { name: name, link: links[name] };
-  //       Item.findOne({ name: name }).then(item => {
-  //         if (item) {
-  //           //throw an error
-  //           console.log("Tamilmv error: Link name exists!");
-  //         } else {
-  //           //create new item
-  //           new Item(newItem)
-  //             .save()
-  //             .then(item => {
-  //               console.log(item);
-  //               sendPushMsg(item.name, item.link)
-  //                 .then(res => {
-  //                   console.log(res);
-  //                 })
-  //                 .catch(err => {
-  //                   console.log(err);
-  //                 });
-  //             })
-  //             .catch(err => console.log(err));
-  //         }
-  //       });
-  //     });
-  //   })
-  //   .catch(err => {
-  //     console.log(err);
-  //   });
+  //telugu rips
+  tamilmv(teluguRips)
+    .then(links => {
+      var namesArray = Object.keys(links);
+      namesArray.forEach((name, index) => {
+        const newItem = { name: name, link: links[name] };
+        Item.findOne({ name: name }).then(item => {
+          if (item) {
+            //throw an error
+            console.log("Tamilmv error: Link name exists!");
+          } else {
+            //create new item
+            new Item(newItem)
+              .save()
+              .then(item => {
+                console.log(item);
+                sendPushMsg(item.name, item.link)
+                  .then(res => {
+                    console.log(res);
+                  })
+                  .catch(err => {
+                    console.log(err);
+                  });
+              })
+              .catch(err => console.log(err));
+          }
+        });
+      });
+    })
+    .catch(err => {
+      console.log(err);
+    });
 
-  // //hindi web
-  // tamilmv(hindiWeb)
-  //   .then(links => {
-  //     var namesArray = Object.keys(links);
-  //     namesArray.forEach((name, index) => {
-  //       const newItem = { name: name, link: links[name] };
-  //       Item.findOne({ name: name }).then(item => {
-  //         if (item) {
-  //           //throw an error
-  //           console.log("Tamilmv error: Link name exists!");
-  //         } else {
-  //           //create new item
-  //           new Item(newItem)
-  //             .save()
-  //             .then(item => {
-  //               console.log(item);
-  //               sendPushMsg(item.name, item.link)
-  //                 .then(res => {
-  //                   console.log(res);
-  //                 })
-  //                 .catch(err => {
-  //                   console.log(err);
-  //                 });
-  //             })
-  //             .catch(err => console.log(err));
-  //         }
-  //       });
-  //     });
-  //   })
-  //   .catch(err => {
-  //     console.log(err);
-  //   });
+  //hindi web
+  tamilmv(hindiWeb)
+    .then(links => {
+      var namesArray = Object.keys(links);
+      namesArray.forEach((name, index) => {
+        const newItem = { name: name, link: links[name] };
+        Item.findOne({ name: name }).then(item => {
+          if (item) {
+            //throw an error
+            console.log("Tamilmv error: Link name exists!");
+          } else {
+            //create new item
+            new Item(newItem)
+              .save()
+              .then(item => {
+                console.log(item);
+                sendPushMsg(item.name, item.link)
+                  .then(res => {
+                    console.log(res);
+                  })
+                  .catch(err => {
+                    console.log(err);
+                  });
+              })
+              .catch(err => console.log(err));
+          }
+        });
+      });
+    })
+    .catch(err => {
+      console.log(err);
+    });
 
-  // //hindi rips
-  // tamilmv(hindiRips)
-  //   .then(links => {
-  //     var namesArray = Object.keys(links);
-  //     namesArray.forEach((name, index) => {
-  //       const newItem = { name: name, link: links[name] };
-  //       Item.findOne({ name: name }).then(item => {
-  //         if (item) {
-  //           //throw an error
-  //           console.log("Tamilmv error: Link name exists!");
-  //         } else {
-  //           //create new item
-  //           new Item(newItem)
-  //             .save()
-  //             .then(item => {
-  //               console.log(item);
-  //               sendPushMsg(item.name, item.link)
-  //                 .then(res => {
-  //                   console.log(res);
-  //                 })
-  //                 .catch(err => {
-  //                   console.log(err);
-  //                 });
-  //             })
-  //             .catch(err => console.log(err));
-  //         }
-  //       });
-  //     });
-  //   })
-  //   .catch(err => {
-  //     console.log(err);
-  //   });
+  //hindi rips
+  tamilmv(hindiRips)
+    .then(links => {
+      var namesArray = Object.keys(links);
+      namesArray.forEach((name, index) => {
+        const newItem = { name: name, link: links[name] };
+        Item.findOne({ name: name }).then(item => {
+          if (item) {
+            //throw an error
+            console.log("Tamilmv error: Link name exists!");
+          } else {
+            //create new item
+            new Item(newItem)
+              .save()
+              .then(item => {
+                console.log(item);
+                sendPushMsg(item.name, item.link)
+                  .then(res => {
+                    console.log(res);
+                  })
+                  .catch(err => {
+                    console.log(err);
+                  });
+              })
+              .catch(err => console.log(err));
+          }
+        });
+      });
+    })
+    .catch(err => {
+      console.log(err);
+    });
 
-  // //malayalam web
-  // tamilmv(malayalamWeb)
-  //   .then(links => {
-  //     var namesArray = Object.keys(links);
-  //     namesArray.forEach((name, index) => {
-  //       const newItem = { name: name, link: links[name] };
-  //       Item.findOne({ name: name }).then(item => {
-  //         if (item) {
-  //           //throw an error
-  //           console.log("Tamilmv error: Link name exists!");
-  //         } else {
-  //           //create new item
-  //           new Item(newItem)
-  //             .save()
-  //             .then(item => {
-  //               console.log(item);
-  //               sendPushMsg(item.name, item.link)
-  //                 .then(res => {
-  //                   console.log(res);
-  //                 })
-  //                 .catch(err => {
-  //                   console.log(err);
-  //                 });
-  //             })
-  //             .catch(err => console.log(err));
-  //         }
-  //       });
-  //     });
-  //   })
-  //   .catch(err => {
-  //     console.log(err);
-  //   });
+  //malayalam web
+  tamilmv(malayalamWeb)
+    .then(links => {
+      var namesArray = Object.keys(links);
+      namesArray.forEach((name, index) => {
+        const newItem = { name: name, link: links[name] };
+        Item.findOne({ name: name }).then(item => {
+          if (item) {
+            //throw an error
+            console.log("Tamilmv error: Link name exists!");
+          } else {
+            //create new item
+            new Item(newItem)
+              .save()
+              .then(item => {
+                console.log(item);
+                sendPushMsg(item.name, item.link)
+                  .then(res => {
+                    console.log(res);
+                  })
+                  .catch(err => {
+                    console.log(err);
+                  });
+              })
+              .catch(err => console.log(err));
+          }
+        });
+      });
+    })
+    .catch(err => {
+      console.log(err);
+    });
 
-  // //malayalam rips
-  // tamilmv(malayalamRips)
-  //   .then(links => {
-  //     var namesArray = Object.keys(links);
-  //     namesArray.forEach((name, index) => {
-  //       const newItem = { name: name, link: links[name] };
-  //       Item.findOne({ name: name }).then(item => {
-  //         if (item) {
-  //           //throw an error
-  //           console.log("Tamilmv error: Link name exists!");
-  //         } else {
-  //           //create new item
-  //           new Item(newItem)
-  //             .save()
-  //             .then(item => {
-  //               console.log(item);
-  //               sendPushMsg(item.name, item.link)
-  //                 .then(res => {
-  //                   console.log(res);
-  //                 })
-  //                 .catch(err => {
-  //                   console.log(err);
-  //                 });
-  //             })
-  //             .catch(err => console.log(err));
-  //         }
-  //       });
-  //     });
-  //   })
-  //   .catch(err => {
-  //     console.log(err);
-  //   });
+  //malayalam rips
+  tamilmv(malayalamRips)
+    .then(links => {
+      var namesArray = Object.keys(links);
+      namesArray.forEach((name, index) => {
+        const newItem = { name: name, link: links[name] };
+        Item.findOne({ name: name }).then(item => {
+          if (item) {
+            //throw an error
+            console.log("Tamilmv error: Link name exists!");
+          } else {
+            //create new item
+            new Item(newItem)
+              .save()
+              .then(item => {
+                console.log(item);
+                sendPushMsg(item.name, item.link)
+                  .then(res => {
+                    console.log(res);
+                  })
+                  .catch(err => {
+                    console.log(err);
+                  });
+              })
+              .catch(err => console.log(err));
+          }
+        });
+      });
+    })
+    .catch(err => {
+      console.log(err);
+    });
 
-  // //kannada web
-  // tamilmv(kannadaWeb)
-  //   .then(links => {
-  //     var namesArray = Object.keys(links);
-  //     namesArray.forEach((name, index) => {
-  //       const newItem = { name: name, link: links[name] };
-  //       Item.findOne({ name: name }).then(item => {
-  //         if (item) {
-  //           //throw an error
-  //           console.log("Tamilmv error: Link name exists!");
-  //         } else {
-  //           //create new item
-  //           new Item(newItem)
-  //             .save()
-  //             .then(item => {
-  //               console.log(item);
-  //               sendPushMsg(item.name, item.link)
-  //                 .then(res => {
-  //                   console.log(res);
-  //                 })
-  //                 .catch(err => {
-  //                   console.log(err);
-  //                 });
-  //             })
-  //             .catch(err => console.log(err));
-  //         }
-  //       });
-  //     });
-  //   })
-  //   .catch(err => {
-  //     console.log(err);
-  //   });
+  //kannada web
+  tamilmv(kannadaWeb)
+    .then(links => {
+      var namesArray = Object.keys(links);
+      namesArray.forEach((name, index) => {
+        const newItem = { name: name, link: links[name] };
+        Item.findOne({ name: name }).then(item => {
+          if (item) {
+            //throw an error
+            console.log("Tamilmv error: Link name exists!");
+          } else {
+            //create new item
+            new Item(newItem)
+              .save()
+              .then(item => {
+                console.log(item);
+                sendPushMsg(item.name, item.link)
+                  .then(res => {
+                    console.log(res);
+                  })
+                  .catch(err => {
+                    console.log(err);
+                  });
+              })
+              .catch(err => console.log(err));
+          }
+        });
+      });
+    })
+    .catch(err => {
+      console.log(err);
+    });
 
-  // //kannada rips
-  // tamilmv(kannadaRips)
-  //   .then(links => {
-  //     var namesArray = Object.keys(links);
-  //     namesArray.forEach((name, index) => {
-  //       const newItem = { name: name, link: links[name] };
-  //       Item.findOne({ name: name }).then(item => {
-  //         if (item) {
-  //           //throw an error
-  //           console.log("Tamilmv error: Link name exists!");
-  //         } else {
-  //           //create new item
-  //           new Item(newItem)
-  //             .save()
-  //             .then(item => {
-  //               console.log(item);
-  //               sendPushMsg(item.name, item.link)
-  //                 .then(res => {
-  //                   console.log(res);
-  //                 })
-  //                 .catch(err => {
-  //                   console.log(err);
-  //                 });
-  //             })
-  //             .catch(err => console.log(err));
-  //         }
-  //       });
-  //     });
-  //   })
-  //   .catch(err => {
-  //     console.log(err);
-  //   });
+  //kannada rips
+  tamilmv(kannadaRips)
+    .then(links => {
+      var namesArray = Object.keys(links);
+      namesArray.forEach((name, index) => {
+        const newItem = { name: name, link: links[name] };
+        Item.findOne({ name: name }).then(item => {
+          if (item) {
+            //throw an error
+            console.log("Tamilmv error: Link name exists!");
+          } else {
+            //create new item
+            new Item(newItem)
+              .save()
+              .then(item => {
+                console.log(item);
+                sendPushMsg(item.name, item.link)
+                  .then(res => {
+                    console.log(res);
+                  })
+                  .catch(err => {
+                    console.log(err);
+                  });
+              })
+              .catch(err => console.log(err));
+          }
+        });
+      });
+    })
+    .catch(err => {
+      console.log(err);
+    });
 };
 
 module.exports = tamilmvFunction;

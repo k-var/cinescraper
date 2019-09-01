@@ -1105,3 +1105,1452 @@ MkvCage.me error: Link name exists!
 MkvCage.me error: Link name exists!
 MkvCage.me error: Link name exists!
 MkvCage.me error: Link name exists!
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '1:37:02 pm' }
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '1:22:02 pm' }
+{ _id: 5d6b78a47a326713fce02531,
+  name: 'Happiness Is a Warm Blanket, Charlie Brown (2011)',
+  link:
+   'https://yts.pm/movies/happiness-is-a-warm-blanket-charlie-brown-2011',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02536,
+  name: 'Bottle Rocket (1994)',
+  link: 'https://yts.pm/movies/bottle-rocket-1994',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02532,
+  name: 'Surface Tension (1968)',
+  link: 'https://yts.pm/movies/surface-tension-1968',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02537,
+  name: 'The Grandmother (1970)',
+  link: 'https://yts.pm/movies/the-grandmother-1970',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02534,
+  name: 'KH-4 (1969)',
+  link: 'https://yts.pm/movies/kh-4-1969',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02530,
+  name: 'Crusty Demons 18: Twenty Years of Fear (2015)',
+  link:
+   'https://yts.pm/movies/crusty-demons-18-twenty-years-of-fear-2015',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02535,
+  name: 'Hotel Chevalier (2007)',
+  link: 'https://yts.pm/movies/hotel-chevalier-2007',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02533,
+  name: 'Private Vices, Public Virtues (1976)',
+  link: 'https://yts.pm/movies/private-vices-public-virtues-1976',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce0253a,
+  name: 'It\'s Christmastime Again, Charlie Brown (1992)',
+  link:
+   'https://yts.pm/movies/its-christmastime-again-charlie-brown-1992',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce0253f,
+  name: 'It\'s Christmas, Eve (2018)',
+  link: 'https://yts.pm/movies/its-christmas-eve-2018',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce0253b,
+  name: 'It\'s the Great Pumpkin, Charlie Brown (1966)',
+  link:
+   'https://yts.pm/movies/its-the-great-pumpkin-charlie-brown-1966',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02540,
+  name: 'Gloria! (1979)',
+  link: 'https://yts.pm/movies/gloria-1979',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02539,
+  name: 'The Ex (2006)',
+  link: 'https://yts.pm/movies/the-ex-2006',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce0253e,
+  name: 'It\'s Magic, Charlie Brown (1981)',
+  link: 'https://yts.pm/movies/its-magic-charlie-brown-1981',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02543,
+  name: 'My Secret Valentine (2018)',
+  link: 'https://yts.pm/movies/my-secret-valentine-2018',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce0253c,
+  name: 'The Birth of Magellan: Cadenza I (1977)',
+  link: 'https://yts.pm/movies/the-birth-of-magellan-cadenza-i-1977',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02541,
+  name: '\'Twas the Night Before Christmas (1974)',
+  link: 'https://yts.pm/movies/twas-the-night-before-christmas-1974',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02538,
+  name: 'The Journal of Diego Rodriguez Silva (1972)',
+  link:
+   'https://yts.pm/movies/the-journal-of-diego-rodriguez-silva-1972',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce0253d,
+  name: 'The Lorax (1972)',
+  link: 'https://yts.pm/movies/the-lorax-1972',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02542,
+  name: 'The Pyjama Girl Case (1977)',
+  link: 'https://yts.pm/movies/the-pyjama-girl-case-1977',
+  __v: 0 }
+Surface Tension (1968)
+{ _id: 5d6b78a47a326713fce02546,
+  name: 'Sunshine (1999) WEB-HD 480p & 720p',
+  link: 'https://pahe.in/sunshine-1999-web-hd-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02544,
+  name: 'The Dead Don’t Die (2019) BRRip 725MB nItRo',
+  link:
+   'https://www.300mbfilms.io/the-dead-dont-die-2019-brrip-725mb-nitro',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02545,
+  name: 'The Souvenir (2019) BRRip 825MB nItRo',
+  link:
+   'https://www.300mbfilms.io/the-souvenir-2019-brrip-825mb-nitro',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02547,
+  name: 'True Detective Season 1-3 Complete BluRay 720p',
+  link: 'https://pahe.in/true-detective-season-1-3/',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02548,
+  name: 'Downward Dog Season 1 Complete WEB-DL 720p',
+  link:
+   'https://pahe.in/downward-dog-season-1-complete-web-dl-720p/',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02549,
+  name: 'Egg (2007) WEB-DL 480p & 720p',
+  link: 'https://pahe.in/egg-2007-web-dl-480p-720p/',
+  __v: 0 }
+Happiness Is a Warm Blanket, Charlie Brown (2011)
+{ _id: 5d6b78a47a326713fce0254a,
+  name: 'Claws Season 1-3 Complete WEB-HD 720p',
+  link: 'https://pahe.in/claws-season-1-3-complete-web-hd-720p/',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce0254b,
+  name: 'I Trapped the Devil (2019) BRRip 525MB nItRo',
+  link:
+   'https://www.300mbfilms.io/i-trapped-the-devil-2019-brrip-525mb-nitro',
+  __v: 0 }
+Crusty Demons 18: Twenty Years of Fear (2015)
+{ _id: 5d6b78a47a326713fce0254c,
+  name: 'Tabernacle 101 (2019) 720p WEB-DL 625MB nItRo',
+  link:
+   'https://www.300mbfilms.io/tabernacle-101-2019-720p-web-dl-625mb-nitro',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce0254d,
+  name: 'Sholay (1975) WEB-HD 480p & 720p',
+  link: 'https://pahe.in/sholay-1975-web-hd-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02551,
+  name: 'Killers Anonymous (2019) BRRip 600MB nItRo',
+  link:
+   'https://www.300mbfilms.io/killers-anonymous-2019-brrip-600mb-nitro',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02556,
+  name: 'Longing Heart Season 1 Complete WEB-DL 480p & 720p',
+  link:
+   'https://pahe.in/longing-heart-season-1-complete-web-dl-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02552,
+  name: 'Unbridled (2018) 720p WEB-DL 625MB nItRo',
+  link:
+   'https://www.300mbfilms.io/unbridled-2018-720p-web-dl-625mb-nitro',
+  __v: 0 }
+The Grandmother (1970)
+KH-4 (1969)
+{ _id: 5d6b78a47a326713fce02550,
+  name:
+   'My First First Love Season 1-2 Complete NF WEB-DL 480p & 720p',
+  link: 'https://pahe.in/my-first-first-love-season-1-2/',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02555,
+  name: 'Barbara (2012) BluRay 480p & 720p',
+  link: 'https://pahe.in/barbara-2012-bluray-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce0255a,
+  name: 'Heart Surgeons Season 1 Complete WEB-DL 480p & 720p',
+  link:
+   'https://pahe.in/heart-surgeons-season-1-complete-web-dl-480p-720p/',
+  __v: 0 }
+Private Vices, Public Virtues (1976)
+Bottle Rocket (1994)
+Hotel Chevalier (2007)
+It's the Great Pumpkin, Charlie Brown (1966)
+{ _id: 5d6b78a47a326713fce0254f,
+  name: 'Gol Maal (1979) BluRay 480p & 720p',
+  link: 'https://pahe.in/gol-maal-1979-bluray-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02554,
+  name: 'Into the Badlands Season 1-3 Complete BluRay 720p',
+  link: 'https://pahe.in/into-the-badlands-season-1-3/',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02559,
+  name: 'Hyperdrive Season 1 Complete NF WEB-DL 720p',
+  link:
+   'https://pahe.in/hyperdrive-season-1-complete-nf-web-dl-720p/',
+  __v: 0 }
+It's Christmas, Eve (2018)
+{ _id: 5d6b78a47a326713fce0254e,
+  name: 'Sweetbitter Season 1-2 Complete WEB-HD 720p',
+  link:
+   'https://pahe.in/sweetbitter-season-1-2-complete-web-hd-720p/',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02553,
+  name: 'Birds of Passage (2018) BluRay 480p & 720p',
+  link: 'https://pahe.in/birds-of-passage-2018-bluray-480p-720p-2/',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02558,
+  name: 'Fear The Walking Dead S05E12 720p WEB 300MB nItRo',
+  link:
+   'https://www.300mbfilms.io/fear-the-walking-dead-s05e12-720p-web-300mb-nitro',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce02557,
+  name: 'Bayou Caviar (2018) BRRIp 825MB nItRo',
+  link:
+   'https://www.300mbfilms.io/bayou-caviar-2018-brrip-825mb-nitro',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce0255c,
+  name: 'Harrow Season 1-2 Complete WEB-HD 720p',
+  link: 'https://pahe.in/harrow-season-1-2-complete-web-hd-720p/',
+  __v: 0 }
+{ _id: 5d6b78a57a326713fce0255d,
+  name: 'Killjoys => Update -> S05E07.720p-1080p.10bit.WEBRip',
+  link: 'https://psarips.eu/tv-show/killjoys/',
+  __v: 0 }
+{ _id: 5d6b78a57a326713fce0255f,
+  name:
+   'The Dark Crystal: Age of Resistance => update -> S01.1080p.10bit.WEBRip',
+  link:
+   'https://psarips.eu/tv-show/the-dark-crystal-age-of-resistance/',
+  __v: 0 }
+{ _id: 5d6b78a57a326713fce0255e,
+  name: 'Killers Anonymous (2019) => update -> 1080p.10bit.BluRay',
+  link: 'https://psarips.eu/movie/killers-anonymous-2019/',
+  __v: 0 }
+It's Christmastime Again, Charlie Brown (1992)
+{ _id: 5d6b78a57a326713fce02561,
+  name: 'Cold Blood (2019) => 720p.10bit.BluRay',
+  link: 'https://psarips.eu/movie/cold-blood-2019/',
+  __v: 0 }
+{ _id: 5d6b78a57a326713fce02562,
+  name: 'Booksmart (2019) => update -> 720p-1080p.10bit.bluray',
+  link: 'https://psarips.eu/movie/booksmart-2019/',
+  __v: 0 }
+{ _id: 5d6b78a57a326713fce02563,
+  name: 'The Righteous Gemstones => update -> S01E03.720p.WEBRip',
+  link: 'https://psarips.eu/tv-show/the-righteous-gemstones/',
+  __v: 0 }
+{ _id: 5d6b78a57a326713fce02567,
+  name:
+   'The Terror => Update -> S02E01-02-03.720p-1080p.10bit.WEBRip',
+  link: 'https://psarips.eu/tv-show/the-terror/',
+  __v: 0 }
+{ _id: 5d6b78a57a326713fce02568,
+  name: 'The Outpost => Update -> S02E08.720p.webrip',
+  link: 'https://psarips.eu/tv-show/the-outpost/',
+  __v: 0 }
+{ _id: 5d6b78a47a326713fce0255b,
+  name: 'Article 15 (2019) NF WEB-DL 480p & 720p',
+  link: 'https://pahe.in/article-15-2019-nf-web-dl-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b78a57a326713fce02560,
+  name: 'Succession => Update -> S02E04.720p.WEBRip.',
+  link: 'https://psarips.eu/tv-show/succession/',
+  __v: 0 }
+Gloria! (1979)
+I Trapped the Devil (2019) BRRip 525MB nItRo
+Heart Surgeons Season 1 Complete WEB-DL 480p & 720p
+{ _id: 5d6b78a57a326713fce02565,
+  name:
+   'Fear the Walking Dead => Update -> S05E12.internal.720p.WEBRip',
+  link: 'https://psarips.eu/tv-show/fear-the-walking-dead/',
+  __v: 0 }
+{ _id: 5d6b78a57a326713fce02569,
+  name: 'Harlots => Update -> S03E08.720p.10bit.WEBRip',
+  link: 'https://psarips.eu/tv-show/harlots/',
+  __v: 0 }
+{ _id: 5d6b78a57a326713fce0256a,
+  name: 'Preacher => Update ->  S04E06.INTERNAL.720p.WEBRip',
+  link: 'https://psarips.eu/tv-show/preacher/',
+  __v: 0 }
+My First First Love Season 1-2 Complete NF WEB-DL 480p & 720p
+{ _id: 5d6b78a57a326713fce02566,
+  name: 'Queen of the South => Update -> S04E13.720p-1080p.web-dl',
+  link: 'https://psarips.eu/tv-show/queen-of-the-south/',
+  __v: 0 }
+{ _id: 5d6b78a57a326713fce0256b,
+  name: 'In Fabric (2018) => update -> 1080p.10bit.BluRay',
+  link: 'https://psarips.eu/movie/in-fabric-2018/',
+  __v: 0 }
+{ _id: 5d6b78a57a326713fce02564,
+  name: 'The Dead Don’t Die (2019) => 720p.BrRip',
+  link: 'https://psarips.eu/movie/the-dead-dont-die-2019/',
+  __v: 0 }
+Into the Badlands Season 1-3 Complete BluRay 720p
+Booksmart (2019) => update -> 720p-1080p.10bit.bluray
+Fear The Walking Dead S05E12 720p WEB 300MB nItRo
+Bayou Caviar (2018) BRRIp 825MB nItRo
+Harlots => Update -> S03E08.720p.10bit.WEBRip
+Cold Blood (2019) => 720p.10bit.BluRay
+Queen of the South => Update -> S04E13.720p-1080p.web-dl
+In Fabric (2018) => update -> 1080p.10bit.BluRay
+The Dead Don’t Die (2019) => 720p.BrRip
+The Righteous Gemstones => update -> S01E03.720p.WEBRip
+Preacher => Update ->  S04E06.INTERNAL.720p.WEBRip
+Fear the Walking Dead => Update -> S05E12.internal.720p.WEBRip
+Harrow Season 1-2 Complete WEB-HD 720p
+The Terror => Update -> S02E01-02-03.720p-1080p.10bit.WEBRip
+Killjoys => Update -> S05E07.720p-1080p.10bit.WEBRip
+Article 15 (2019) NF WEB-DL 480p & 720p
+Succession => Update -> S02E04.720p.WEBRip.
+The Outpost => Update -> S02E08.720p.webrip
+Killers Anonymous (2019) => update -> 1080p.10bit.BluRay
+The Dark Crystal: Age of Resistance => update -> S01.1080p.10bit.WEBRip
+The Birth of Magellan: Cadenza I (1977)
+My Secret Valentine (2018)
+'Twas the Night Before Christmas (1974)
+Birds of Passage (2018) BluRay 480p & 720p
+Sweetbitter Season 1-2 Complete WEB-HD 720p
+Hyperdrive Season 1 Complete NF WEB-DL 720p
+{ _id: 5d6b78a87a326713fce0256c,
+  name: 'The Big Tease (1999)',
+  link: 'https://yts.lt/movie/the-big-tease-1999',
+  __v: 0 }
+Gol Maal (1979) BluRay 480p & 720p
+{ _id: 5d6b78a87a326713fce0256e,
+  name: 'The Dead Don\'t Die (2019)',
+  link: 'https://yts.lt/movie/the-dead-dont-die-2019',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce02573,
+  name: 'Expo (2019)',
+  link: 'https://yts.lt/movie/expo-2019',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce0256d,
+  name: 'Bikes (2018)',
+  link: 'https://yts.lt/movie/bikes-2018',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce0256f,
+  name: 'I Trapped the Devil (2019)',
+  link: 'https://yts.lt/movie/i-trapped-the-devil-2019',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce02570,
+  name: 'Planeta Singli (2016)',
+  link: 'https://yts.lt/movie/planeta-singli-2016',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce02571,
+  name: 'The Angry Red Planet (1959)',
+  link: 'https://yts.lt/movie/the-angry-red-planet-1959',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce02572,
+  name: 'Unbridled (2018)',
+  link: 'https://yts.lt/movie/unbridled-2018',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce02578,
+  name: 'The Thin Man (1934)',
+  link: 'https://yts.lt/movie/the-thin-man-1934',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce02574,
+  name: 'The Witches (1990)',
+  link: 'https://yts.lt/movie/the-witches-1990',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce02579,
+  name: 'The 16th Episode (2019)',
+  link: 'https://yts.lt/movie/the-16th-episode-2019',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce02575,
+  name: 'Hostage (1983)',
+  link: 'https://yts.lt/movie/hostage-1983',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce0257a,
+  name: 'Te Ata (2016)',
+  link: 'https://yts.lt/movie/te-ata-2016',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce02576,
+  name: 'Angel of Mine (2019)',
+  link: 'https://yts.lt/movie/angel-of-mine-2019',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce0257b,
+  name: 'London Heist (2017)',
+  link: 'https://yts.lt/movie/london-heist-2017',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce0257d,
+  name: 'Royally Ever After (2018)',
+  link: 'https://yts.lt/movie/royally-ever-after-2018',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce02577,
+  name: 'Itsy Bitsy (2019)',
+  link: 'https://yts.lt/movie/itsy-bitsy-2019',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce0257e,
+  name: 'Eat Me (2018)',
+  link: 'https://yts.lt/movie/eat-me-2018',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce0257f,
+  name: 'Killers Anonymous (2019)',
+  link: 'https://yts.lt/movie/killers-anonymous-2019',
+  __v: 0 }
+{ _id: 5d6b78a87a326713fce0257c,
+  name: 'Memory: The Origins of Alien (2019)',
+  link: 'https://yts.lt/movie/memory-the-origins-of-alien-2019',
+  __v: 0 }
+Unbridled (2018) 720p WEB-DL 625MB nItRo
+Barbara (2012) BluRay 480p & 720p
+The Pyjama Girl Case (1977)
+Longing Heart Season 1 Complete WEB-DL 480p & 720p
+The Lorax (1972)
+The Journal of Diego Rodriguez Silva (1972)
+Egg (2007) WEB-DL 480p & 720p
+Bikes (2018)
+Te Ata (2016)
+Royally Ever After (2018)
+Angel of Mine (2019)
+The 16th Episode (2019)
+London Heist (2017)
+Eat Me (2018)
+Memory: The Origins of Alien (2019)
+Killers Anonymous (2019)
+Itsy Bitsy (2019)
+Hostage (1983)
+I Trapped the Devil (2019)
+The Dead Don't Die (2019)
+Planeta Singli (2016)
+{ _id: 5d6b78a97a326713fce02580,
+  name: 'Cold Blood (2019) 720p BRRip HEVC 780MB',
+  link:
+   'https://www.mkvcage.me/cold-blood-2019-720p-brrip-hevc-780mb/',
+  __v: 0 }
+{ _id: 5d6b78a97a326713fce02581,
+  name: 'Carnival Row S01E04 720p WEBRip HEVC 240MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e04-720p-webrip-hevc-240mb/',
+  __v: 0 }
+{ _id: 5d6b78a97a326713fce02583,
+  name: 'Carnival Row S01E06 720p WEBRip HEVC 200MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e06-720p-webrip-hevc-200mb/',
+  __v: 0 }
+{ _id: 5d6b78a97a326713fce02584,
+  name: 'Killers Anonymous (2019) 720p BRRip HEVC 750MB',
+  link:
+   'https://www.mkvcage.me/killers-anonymous-2019-720p-brrip-hevc-750mb/',
+  __v: 0 }
+{ _id: 5d6b78a97a326713fce02582,
+  name: 'Carnival Row S01E08 720p WEBRip HEVC 270MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e08-720p-webrip-hevc-270mb/',
+  __v: 0 }
+{ _id: 5d6b78a97a326713fce02585,
+  name: 'Carnival Row S01E07 720p WEBRip HEVC 160MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e07-720p-webrip-hevc-160mb/',
+  __v: 0 }
+{ _id: 5d6b78a97a326713fce02586,
+  name: 'Killers Anonymous (2019) 1080p BRRip HEVC 1.7GB',
+  link:
+   'https://www.mkvcage.me/killers-anonymous-2019-1080p-brrip-hevc-1-7gb/',
+  __v: 0 }
+{ _id: 5d6b78a97a326713fce02587,
+  name: 'Carnival Row S01E05 720p WEBRip HEVC 210MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e05-720p-webrip-hevc-210mb/',
+  __v: 0 }
+The Big Tease (1999)
+Unbridled (2018)
+The Witches (1990)
+The Thin Man (1934)
+Expo (2019)
+The Angry Red Planet (1959)
+Sholay (1975) WEB-HD 480p & 720p
+The Souvenir (2019) BRRip 825MB nItRo
+Sunshine (1999) WEB-HD 480p & 720p
+undefined
+undefined
+The Dead Don’t Die (2019) BRRip 725MB nItRo
+Carnival Row S01E07 720p WEBRip HEVC 160MB
+undefined
+Carnival Row S01E08 720p WEBRip HEVC 270MB
+undefined
+undefined
+undefined
+undefined
+Killers Anonymous (2019) 720p BRRip HEVC 750MB
+Carnival Row S01E05 720p WEBRip HEVC 210MB
+Killers Anonymous (2019) 1080p BRRip HEVC 1.7GB
+Carnival Row S01E04 720p WEBRip HEVC 240MB
+Cold Blood (2019) 720p BRRip HEVC 780MB
+Carnival Row S01E06 720p WEBRip HEVC 200MB
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '1:37:02 pm' }
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '1:52:02 pm' }
+{ _id: 5d6b7c287a326713fce02589,
+  name: 'Happiness Is a Warm Blanket, Charlie Brown (2011)',
+  link:
+   'https://yts.pm/movies/happiness-is-a-warm-blanket-charlie-brown-2011',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce02588,
+  name: 'Crusty Demons 18: Twenty Years of Fear (2015)',
+  link:
+   'https://yts.pm/movies/crusty-demons-18-twenty-years-of-fear-2015',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce0258b,
+  name: 'Private Vices, Public Virtues (1976)',
+  link: 'https://yts.pm/movies/private-vices-public-virtues-1976',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce0258a,
+  name: 'Surface Tension (1968)',
+  link: 'https://yts.pm/movies/surface-tension-1968',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce0258e,
+  name: 'Bottle Rocket (1994)',
+  link: 'https://yts.pm/movies/bottle-rocket-1994',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce0258c,
+  name: 'KH-4 (1969)',
+  link: 'https://yts.pm/movies/kh-4-1969',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce0258d,
+  name: 'Hotel Chevalier (2007)',
+  link: 'https://yts.pm/movies/hotel-chevalier-2007',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce0258f,
+  name: 'The Grandmother (1970)',
+  link: 'https://yts.pm/movies/the-grandmother-1970',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce02590,
+  name: 'The Journal of Diego Rodriguez Silva (1972)',
+  link:
+   'https://yts.pm/movies/the-journal-of-diego-rodriguez-silva-1972',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce02591,
+  name: 'The Lorax (1972)',
+  link: 'https://yts.pm/movies/the-lorax-1972',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce02593,
+  name: 'It\'s Christmas, Eve (2018)',
+  link: 'https://yts.pm/movies/its-christmas-eve-2018',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce02592,
+  name: 'It\'s Magic, Charlie Brown (1981)',
+  link: 'https://yts.pm/movies/its-magic-charlie-brown-1981',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce02595,
+  name: 'The Ex (2006)',
+  link: 'https://yts.pm/movies/the-ex-2006',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce02594,
+  name: 'The Birth of Magellan: Cadenza I (1977)',
+  link: 'https://yts.pm/movies/the-birth-of-magellan-cadenza-i-1977',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce02596,
+  name: 'It\'s Christmastime Again, Charlie Brown (1992)',
+  link:
+   'https://yts.pm/movies/its-christmastime-again-charlie-brown-1992',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce02598,
+  name: 'Gloria! (1979)',
+  link: 'https://yts.pm/movies/gloria-1979',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce02597,
+  name: 'It\'s the Great Pumpkin, Charlie Brown (1966)',
+  link:
+   'https://yts.pm/movies/its-the-great-pumpkin-charlie-brown-1966',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce0259a,
+  name: 'The Pyjama Girl Case (1977)',
+  link: 'https://yts.pm/movies/the-pyjama-girl-case-1977',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce02599,
+  name: '\'Twas the Night Before Christmas (1974)',
+  link: 'https://yts.pm/movies/twas-the-night-before-christmas-1974',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce0259b,
+  name: 'My Secret Valentine (2018)',
+  link: 'https://yts.pm/movies/my-secret-valentine-2018',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce025a4,
+  name: 'Sunshine (1999) WEB-HD 480p & 720p',
+  link: 'https://pahe.in/sunshine-1999-web-hd-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce025a9,
+  name: 'Birds of Passage (2018) BluRay 480p & 720p',
+  link: 'https://pahe.in/birds-of-passage-2018-bluray-480p-720p-2/',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce0259f,
+  name: 'Tabernacle 101 (2019) 720p WEB-DL 625MB nItRo',
+  link:
+   'https://www.300mbfilms.io/tabernacle-101-2019-720p-web-dl-625mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce025a3,
+  name: 'The Souvenir (2019) BRRip 825MB nItRo',
+  link:
+   'https://www.300mbfilms.io/the-souvenir-2019-brrip-825mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce025a6,
+  name: 'Downward Dog Season 1 Complete WEB-DL 720p',
+  link:
+   'https://pahe.in/downward-dog-season-1-complete-web-dl-720p/',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce025ab,
+  name: 'Barbara (2012) BluRay 480p & 720p',
+  link: 'https://pahe.in/barbara-2012-bluray-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce0259d,
+  name: 'Unbridled (2018) 720p WEB-DL 625MB nItRo',
+  link:
+   'https://www.300mbfilms.io/unbridled-2018-720p-web-dl-625mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce025a1,
+  name: 'Killers Anonymous (2019) BRRip 600MB nItRo',
+  link:
+   'https://www.300mbfilms.io/killers-anonymous-2019-brrip-600mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce025a8,
+  name: 'Claws Season 1-3 Complete WEB-HD 720p',
+  link: 'https://pahe.in/claws-season-1-3-complete-web-hd-720p/',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce0259c,
+  name: 'I Trapped the Devil (2019) BRRip 525MB nItRo',
+  link:
+   'https://www.300mbfilms.io/i-trapped-the-devil-2019-brrip-525mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce025a0,
+  name: 'Bayou Caviar (2018) BRRIp 825MB nItRo',
+  link:
+   'https://www.300mbfilms.io/bayou-caviar-2018-brrip-825mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce025a7,
+  name: 'Egg (2007) WEB-DL 480p & 720p',
+  link: 'https://pahe.in/egg-2007-web-dl-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce025ac,
+  name: 'Longing Heart Season 1 Complete WEB-DL 480p & 720p',
+  link:
+   'https://pahe.in/longing-heart-season-1-complete-web-dl-480p-720p/',
+  __v: 0 }
+Hotel Chevalier (2007)
+Bottle Rocket (1994)
+{ _id: 5d6b7c297a326713fce025ad,
+  name: 'Sholay (1975) WEB-HD 480p & 720p',
+  link: 'https://pahe.in/sholay-1975-web-hd-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025ae,
+  name: 'Sweetbitter Season 1-2 Complete WEB-HD 720p',
+  link:
+   'https://pahe.in/sweetbitter-season-1-2-complete-web-hd-720p/',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025af,
+  name: 'Gol Maal (1979) BluRay 480p & 720p',
+  link: 'https://pahe.in/gol-maal-1979-bluray-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025b0,
+  name:
+   'My First First Love Season 1-2 Complete NF WEB-DL 480p & 720p',
+  link: 'https://pahe.in/my-first-first-love-season-1-2/',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025b1,
+  name: 'Hyperdrive Season 1 Complete NF WEB-DL 720p',
+  link:
+   'https://pahe.in/hyperdrive-season-1-complete-nf-web-dl-720p/',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce0259e,
+  name: 'The Dead Don’t Die (2019) BRRip 725MB nItRo',
+  link:
+   'https://www.300mbfilms.io/the-dead-dont-die-2019-brrip-725mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce025a2,
+  name: 'Fear The Walking Dead S05E12 720p WEB 300MB nItRo',
+  link:
+   'https://www.300mbfilms.io/fear-the-walking-dead-s05e12-720p-web-300mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce025a5,
+  name: 'True Detective Season 1-3 Complete BluRay 720p',
+  link: 'https://pahe.in/true-detective-season-1-3/',
+  __v: 0 }
+{ _id: 5d6b7c287a326713fce025aa,
+  name: 'Into the Badlands Season 1-3 Complete BluRay 720p',
+  link: 'https://pahe.in/into-the-badlands-season-1-3/',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025b2,
+  name: 'Heart Surgeons Season 1 Complete WEB-DL 480p & 720p',
+  link:
+   'https://pahe.in/heart-surgeons-season-1-complete-web-dl-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025b3,
+  name: 'Article 15 (2019) NF WEB-DL 480p & 720p',
+  link: 'https://pahe.in/article-15-2019-nf-web-dl-480p-720p/',
+  __v: 0 }
+Surface Tension (1968)
+{ _id: 5d6b7c297a326713fce025b4,
+  name: 'Harrow Season 1-2 Complete WEB-HD 720p',
+  link: 'https://pahe.in/harrow-season-1-2-complete-web-hd-720p/',
+  __v: 0 }
+Crusty Demons 18: Twenty Years of Fear (2015)
+It's the Great Pumpkin, Charlie Brown (1966)
+Claws Season 1-3 Complete WEB-HD 720p
+Gol Maal (1979) BluRay 480p & 720p
+My First First Love Season 1-2 Complete NF WEB-DL 480p & 720p
+{ _id: 5d6b7c297a326713fce025b5,
+  name: 'The Big Tease (1999)',
+  link: 'https://yts.lt/movie/the-big-tease-1999',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025b8,
+  name: 'Expo (2019)',
+  link: 'https://yts.lt/movie/expo-2019',
+  __v: 0 }
+I Trapped the Devil (2019) BRRip 525MB nItRo
+{ _id: 5d6b7c297a326713fce025b7,
+  name: 'Unbridled (2018)',
+  link: 'https://yts.lt/movie/unbridled-2018',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025b6,
+  name: 'The Angry Red Planet (1959)',
+  link: 'https://yts.lt/movie/the-angry-red-planet-1959',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025b9,
+  name: 'Planeta Singli (2016)',
+  link: 'https://yts.lt/movie/planeta-singli-2016',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025ba,
+  name: 'Bikes (2018)',
+  link: 'https://yts.lt/movie/bikes-2018',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025bb,
+  name: 'The Dead Don\'t Die (2019)',
+  link: 'https://yts.lt/movie/the-dead-dont-die-2019',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025bd,
+  name: 'The Witches (1990)',
+  link: 'https://yts.lt/movie/the-witches-1990',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025bc,
+  name: 'I Trapped the Devil (2019)',
+  link: 'https://yts.lt/movie/i-trapped-the-devil-2019',
+  __v: 0 }
+Downward Dog Season 1 Complete WEB-DL 720p
+{ _id: 5d6b7c297a326713fce025be,
+  name: 'Royally Ever After (2018)',
+  link: 'https://yts.lt/movie/royally-ever-after-2018',
+  __v: 0 }
+Unbridled (2018) 720p WEB-DL 625MB nItRo
+The Souvenir (2019) BRRip 825MB nItRo
+Tabernacle 101 (2019) 720p WEB-DL 625MB nItRo
+Hyperdrive Season 1 Complete NF WEB-DL 720p
+Into the Badlands Season 1-3 Complete BluRay 720p
+KH-4 (1969)
+Longing Heart Season 1 Complete WEB-DL 480p & 720p
+{ _id: 5d6b7c297a326713fce025c2,
+  name: 'Memory: The Origins of Alien (2019)',
+  link: 'https://yts.lt/movie/memory-the-origins-of-alien-2019',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025c7,
+  name: 'Te Ata (2016)',
+  link: 'https://yts.lt/movie/te-ata-2016',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025bf,
+  name: 'Eat Me (2018)',
+  link: 'https://yts.lt/movie/eat-me-2018',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025c4,
+  name: 'Angel of Mine (2019)',
+  link: 'https://yts.lt/movie/angel-of-mine-2019',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025c1,
+  name: 'The Thin Man (1934)',
+  link: 'https://yts.lt/movie/the-thin-man-1934',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025c6,
+  name: 'The 16th Episode (2019)',
+  link: 'https://yts.lt/movie/the-16th-episode-2019',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025c0,
+  name: 'Killers Anonymous (2019)',
+  link: 'https://yts.lt/movie/killers-anonymous-2019',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025c5,
+  name: 'Itsy Bitsy (2019)',
+  link: 'https://yts.lt/movie/itsy-bitsy-2019',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025c3,
+  name: 'Hostage (1983)',
+  link: 'https://yts.lt/movie/hostage-1983',
+  __v: 0 }
+{ _id: 5d6b7c297a326713fce025c8,
+  name: 'London Heist (2017)',
+  link: 'https://yts.lt/movie/london-heist-2017',
+  __v: 0 }
+The Dead Don’t Die (2019) BRRip 725MB nItRo
+Heart Surgeons Season 1 Complete WEB-DL 480p & 720p
+Sunshine (1999) WEB-HD 480p & 720p
+{ _id: 5d6b7c2a7a326713fce025ca,
+  name: 'Preacher => Update ->  S04E06.INTERNAL.720p.WEBRip',
+  link: 'https://psarips.eu/tv-show/preacher/',
+  __v: 0 }
+{ _id: 5d6b7c2a7a326713fce025c9,
+  name: 'Harlots => Update -> S03E08.720p.10bit.WEBRip',
+  link: 'https://psarips.eu/tv-show/harlots/',
+  __v: 0 }
+{ _id: 5d6b7c2a7a326713fce025cb,
+  name: 'In Fabric (2018) => update -> 1080p.10bit.BluRay',
+  link: 'https://psarips.eu/movie/in-fabric-2018/',
+  __v: 0 }
+{ _id: 5d6b7c2a7a326713fce025cc,
+  name: 'Killjoys => Update -> S05E07.720p-1080p.10bit.WEBRip',
+  link: 'https://psarips.eu/tv-show/killjoys/',
+  __v: 0 }
+Article 15 (2019) NF WEB-DL 480p & 720p
+{ _id: 5d6b7c2a7a326713fce025cd,
+  name:
+   'The Terror => Update -> S02E01-02-03.720p-1080p.10bit.WEBRip',
+  link: 'https://psarips.eu/tv-show/the-terror/',
+  __v: 0 }
+{ _id: 5d6b7c2a7a326713fce025cf,
+  name: 'Killers Anonymous (2019) => update -> 1080p.10bit.BluRay',
+  link: 'https://psarips.eu/movie/killers-anonymous-2019/',
+  __v: 0 }
+{ _id: 5d6b7c2a7a326713fce025d0,
+  name:
+   'The Dark Crystal: Age of Resistance => update -> S01.1080p.10bit.WEBRip',
+  link:
+   'https://psarips.eu/tv-show/the-dark-crystal-age-of-resistance/',
+  __v: 0 }
+{ _id: 5d6b7c2a7a326713fce025d5,
+  name: 'The Dead Don’t Die (2019) => 720p.BrRip',
+  link: 'https://psarips.eu/movie/the-dead-dont-die-2019/',
+  __v: 0 }
+{ _id: 5d6b7c2a7a326713fce025d1,
+  name: 'Succession => Update -> S02E04.720p.WEBRip.',
+  link: 'https://psarips.eu/tv-show/succession/',
+  __v: 0 }
+{ _id: 5d6b7c2a7a326713fce025d6,
+  name:
+   'Fear the Walking Dead => Update -> S05E12.internal.720p.WEBRip',
+  link: 'https://psarips.eu/tv-show/fear-the-walking-dead/',
+  __v: 0 }
+True Detective Season 1-3 Complete BluRay 720p
+{ _id: 5d6b7c2a7a326713fce025d2,
+  name: 'Cold Blood (2019) => 720p.10bit.BluRay',
+  link: 'https://psarips.eu/movie/cold-blood-2019/',
+  __v: 0 }
+{ _id: 5d6b7c2a7a326713fce025d7,
+  name: 'Queen of the South => Update -> S04E13.720p-1080p.web-dl',
+  link: 'https://psarips.eu/tv-show/queen-of-the-south/',
+  __v: 0 }
+{ _id: 5d6b7c2a7a326713fce025d4,
+  name: 'The Righteous Gemstones => update -> S01E03.720p.WEBRip',
+  link: 'https://psarips.eu/tv-show/the-righteous-gemstones/',
+  __v: 0 }
+Birds of Passage (2018) BluRay 480p & 720p
+It's Magic, Charlie Brown (1981)
+Private Vices, Public Virtues (1976)
+It's Christmas, Eve (2018)
+I Trapped the Devil (2019)
+Hostage (1983)
+{ _id: 5d6b7c2a7a326713fce025ce,
+  name: 'The Outpost => Update -> S02E08.720p.webrip',
+  link: 'https://psarips.eu/tv-show/the-outpost/',
+  __v: 0 }
+{ _id: 5d6b7c2a7a326713fce025d3,
+  name: 'Booksmart (2019) => update -> 720p-1080p.10bit.bluray',
+  link: 'https://psarips.eu/movie/booksmart-2019/',
+  __v: 0 }
+Angel of Mine (2019)
+London Heist (2017)
+Killers Anonymous (2019) => update -> 1080p.10bit.BluRay
+In Fabric (2018) => update -> 1080p.10bit.BluRay
+The Dead Don't Die (2019)
+The Righteous Gemstones => update -> S01E03.720p.WEBRip
+Cold Blood (2019) => 720p.10bit.BluRay
+Fear the Walking Dead => Update -> S05E12.internal.720p.WEBRip
+The Dark Crystal: Age of Resistance => update -> S01.1080p.10bit.WEBRip
+Queen of the South => Update -> S04E13.720p-1080p.web-dl
+Itsy Bitsy (2019)
+Killjoys => Update -> S05E07.720p-1080p.10bit.WEBRip
+Booksmart (2019) => update -> 720p-1080p.10bit.bluray
+The Thin Man (1934)
+The 16th Episode (2019)
+The Outpost => Update -> S02E08.720p.webrip
+Harlots => Update -> S03E08.720p.10bit.WEBRip
+Bikes (2018)
+The Dead Don’t Die (2019) => 720p.BrRip
+Succession => Update -> S02E04.720p.WEBRip.
+Eat Me (2018)
+Preacher => Update ->  S04E06.INTERNAL.720p.WEBRip
+The Terror => Update -> S02E01-02-03.720p-1080p.10bit.WEBRip
+Memory: The Origins of Alien (2019)
+Te Ata (2016)
+Unbridled (2018)
+The Witches (1990)
+Killers Anonymous (2019)
+Planeta Singli (2016)
+Gloria! (1979)
+The Journal of Diego Rodriguez Silva (1972)
+The Birth of Magellan: Cadenza I (1977)
+The Lorax (1972)
+The Pyjama Girl Case (1977)
+My Secret Valentine (2018)
+Royally Ever After (2018)
+Expo (2019)
+The Angry Red Planet (1959)
+The Grandmother (1970)
+The Ex (2006)
+The Big Tease (1999)
+Harrow Season 1-2 Complete WEB-HD 720p
+Fear The Walking Dead S05E12 720p WEB 300MB nItRo
+Bayou Caviar (2018) BRRIp 825MB nItRo
+{ _id: 5d6b7c2d7a326713fce025d8,
+  name: 'Cold Blood (2019) 720p BRRip HEVC 780MB',
+  link:
+   'https://www.mkvcage.me/cold-blood-2019-720p-brrip-hevc-780mb/',
+  __v: 0 }
+Killers Anonymous (2019) BRRip 600MB nItRo
+{ _id: 5d6b7c2d7a326713fce025d9,
+  name: 'Carnival Row S01E04 720p WEBRip HEVC 240MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e04-720p-webrip-hevc-240mb/',
+  __v: 0 }
+{ _id: 5d6b7c2d7a326713fce025da,
+  name: 'Carnival Row S01E08 720p WEBRip HEVC 270MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e08-720p-webrip-hevc-270mb/',
+  __v: 0 }
+{ _id: 5d6b7c2d7a326713fce025db,
+  name: 'Killers Anonymous (2019) 720p BRRip HEVC 750MB',
+  link:
+   'https://www.mkvcage.me/killers-anonymous-2019-720p-brrip-hevc-750mb/',
+  __v: 0 }
+{ _id: 5d6b7c2d7a326713fce025dd,
+  name: 'Carnival Row S01E05 720p WEBRip HEVC 210MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e05-720p-webrip-hevc-210mb/',
+  __v: 0 }
+{ _id: 5d6b7c2d7a326713fce025dc,
+  name: 'Carnival Row S01E07 720p WEBRip HEVC 160MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e07-720p-webrip-hevc-160mb/',
+  __v: 0 }
+{ _id: 5d6b7c2d7a326713fce025de,
+  name: 'Carnival Row S01E06 720p WEBRip HEVC 200MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e06-720p-webrip-hevc-200mb/',
+  __v: 0 }
+{ _id: 5d6b7c2d7a326713fce025df,
+  name: 'Killers Anonymous (2019) 1080p BRRip HEVC 1.7GB',
+  link:
+   'https://www.mkvcage.me/killers-anonymous-2019-1080p-brrip-hevc-1-7gb/',
+  __v: 0 }
+Barbara (2012) BluRay 480p & 720p
+Egg (2007) WEB-DL 480p & 720p
+Happiness Is a Warm Blanket, Charlie Brown (2011)
+Sweetbitter Season 1-2 Complete WEB-HD 720p
+Sholay (1975) WEB-HD 480p & 720p
+It's Christmastime Again, Charlie Brown (1992)
+Killers Anonymous (2019) 720p BRRip HEVC 750MB
+Cold Blood (2019) 720p BRRip HEVC 780MB
+Carnival Row S01E05 720p WEBRip HEVC 210MB
+Carnival Row S01E07 720p WEBRip HEVC 160MB
+Carnival Row S01E08 720p WEBRip HEVC 270MB
+'Twas the Night Before Christmas (1974)
+Carnival Row S01E06 720p WEBRip HEVC 200MB
+Carnival Row S01E04 720p WEBRip HEVC 240MB
+Killers Anonymous (2019) 1080p BRRip HEVC 1.7GB
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '1:52:02 pm' }
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '2:07:02 pm' }
+{ _id: 5d6b7fac7a326713fce025e0,
+  name: 'Crusty Demons 18: Twenty Years of Fear (2015)',
+  link:
+   'https://yts.pm/movies/crusty-demons-18-twenty-years-of-fear-2015',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025e1,
+  name: 'Happiness Is a Warm Blanket, Charlie Brown (2011)',
+  link:
+   'https://yts.pm/movies/happiness-is-a-warm-blanket-charlie-brown-2011',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025e2,
+  name: 'Surface Tension (1968)',
+  link: 'https://yts.pm/movies/surface-tension-1968',
+  __v: 0 }
+undefined
+undefined
+{ _id: 5d6b7fac7a326713fce025e6,
+  name: 'It\'s Magic, Charlie Brown (1981)',
+  link: 'https://yts.pm/movies/its-magic-charlie-brown-1981',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025eb,
+  name: 'The Grandmother (1970)',
+  link: 'https://yts.pm/movies/the-grandmother-1970',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025f0,
+  name: 'Gloria! (1979)',
+  link: 'https://yts.pm/movies/gloria-1979',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025e7,
+  name: 'It\'s Christmas, Eve (2018)',
+  link: 'https://yts.pm/movies/its-christmas-eve-2018',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025ec,
+  name: 'The Birth of Magellan: Cadenza I (1977)',
+  link: 'https://yts.pm/movies/the-birth-of-magellan-cadenza-i-1977',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025f1,
+  name: 'The Ex (2006)',
+  link: 'https://yts.pm/movies/the-ex-2006',
+  __v: 0 }
+undefined
+{ _id: 5d6b7fac7a326713fce025e3,
+  name: 'Private Vices, Public Virtues (1976)',
+  link: 'https://yts.pm/movies/private-vices-public-virtues-1976',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025e8,
+  name: 'The Journal of Diego Rodriguez Silva (1972)',
+  link:
+   'https://yts.pm/movies/the-journal-of-diego-rodriguez-silva-1972',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025ed,
+  name: '\'Twas the Night Before Christmas (1974)',
+  link: 'https://yts.pm/movies/twas-the-night-before-christmas-1974',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025f2,
+  name: 'It\'s Christmastime Again, Charlie Brown (1992)',
+  link:
+   'https://yts.pm/movies/its-christmastime-again-charlie-brown-1992',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025e5,
+  name: 'The Lorax (1972)',
+  link: 'https://yts.pm/movies/the-lorax-1972',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025ea,
+  name: 'Bottle Rocket (1994)',
+  link: 'https://yts.pm/movies/bottle-rocket-1994',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025ef,
+  name: 'My Secret Valentine (2018)',
+  link: 'https://yts.pm/movies/my-secret-valentine-2018',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025f4,
+  name: 'The Dead Don’t Die (2019) BRRip 725MB nItRo',
+  link:
+   'https://www.300mbfilms.io/the-dead-dont-die-2019-brrip-725mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025f8,
+  name: 'I Trapped the Devil (2019) BRRip 525MB nItRo',
+  link:
+   'https://www.300mbfilms.io/i-trapped-the-devil-2019-brrip-525mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025f5,
+  name: 'Tabernacle 101 (2019) 720p WEB-DL 625MB nItRo',
+  link:
+   'https://www.300mbfilms.io/tabernacle-101-2019-720p-web-dl-625mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025f9,
+  name: 'Unbridled (2018) 720p WEB-DL 625MB nItRo',
+  link:
+   'https://www.300mbfilms.io/unbridled-2018-720p-web-dl-625mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025f7,
+  name: 'Fear The Walking Dead S05E12 720p WEB 300MB nItRo',
+  link:
+   'https://www.300mbfilms.io/fear-the-walking-dead-s05e12-720p-web-300mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025fb,
+  name: 'The Souvenir (2019) BRRip 825MB nItRo',
+  link:
+   'https://www.300mbfilms.io/the-souvenir-2019-brrip-825mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025e4,
+  name: 'KH-4 (1969)',
+  link: 'https://yts.pm/movies/kh-4-1969',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025e9,
+  name: 'Hotel Chevalier (2007)',
+  link: 'https://yts.pm/movies/hotel-chevalier-2007',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025ee,
+  name: 'The Pyjama Girl Case (1977)',
+  link: 'https://yts.pm/movies/the-pyjama-girl-case-1977',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025f3,
+  name: 'It\'s the Great Pumpkin, Charlie Brown (1966)',
+  link:
+   'https://yts.pm/movies/its-the-great-pumpkin-charlie-brown-1966',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025f6,
+  name: 'Killers Anonymous (2019) BRRip 600MB nItRo',
+  link:
+   'https://www.300mbfilms.io/killers-anonymous-2019-brrip-600mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7fac7a326713fce025fa,
+  name: 'Bayou Caviar (2018) BRRIp 825MB nItRo',
+  link:
+   'https://www.300mbfilms.io/bayou-caviar-2018-brrip-825mb-nitro',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce025fc,
+  name: 'Sunshine (1999) WEB-HD 480p & 720p',
+  link: 'https://pahe.in/sunshine-1999-web-hd-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce025fe,
+  name: 'Downward Dog Season 1 Complete WEB-DL 720p',
+  link:
+   'https://pahe.in/downward-dog-season-1-complete-web-dl-720p/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce025ff,
+  name: 'Egg (2007) WEB-DL 480p & 720p',
+  link: 'https://pahe.in/egg-2007-web-dl-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02600,
+  name: 'Claws Season 1-3 Complete WEB-HD 720p',
+  link: 'https://pahe.in/claws-season-1-3-complete-web-hd-720p/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02601,
+  name: 'Sholay (1975) WEB-HD 480p & 720p',
+  link: 'https://pahe.in/sholay-1975-web-hd-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02603,
+  name: 'Gol Maal (1979) BluRay 480p & 720p',
+  link: 'https://pahe.in/gol-maal-1979-bluray-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02604,
+  name:
+   'My First First Love Season 1-2 Complete NF WEB-DL 480p & 720p',
+  link: 'https://pahe.in/my-first-first-love-season-1-2/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02605,
+  name: 'Hyperdrive Season 1 Complete NF WEB-DL 720p',
+  link:
+   'https://pahe.in/hyperdrive-season-1-complete-nf-web-dl-720p/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02606,
+  name: 'Heart Surgeons Season 1 Complete WEB-DL 480p & 720p',
+  link:
+   'https://pahe.in/heart-surgeons-season-1-complete-web-dl-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02608,
+  name: 'Harrow Season 1-2 Complete WEB-HD 720p',
+  link: 'https://pahe.in/harrow-season-1-2-complete-web-hd-720p/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce025fd,
+  name: 'True Detective Season 1-3 Complete BluRay 720p',
+  link: 'https://pahe.in/true-detective-season-1-3/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02602,
+  name: 'Sweetbitter Season 1-2 Complete WEB-HD 720p',
+  link:
+   'https://pahe.in/sweetbitter-season-1-2-complete-web-hd-720p/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02607,
+  name: 'Article 15 (2019) NF WEB-DL 480p & 720p',
+  link: 'https://pahe.in/article-15-2019-nf-web-dl-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02609,
+  name: 'Birds of Passage (2018) BluRay 480p & 720p',
+  link: 'https://pahe.in/birds-of-passage-2018-bluray-480p-720p-2/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce0260c,
+  name: 'Longing Heart Season 1 Complete WEB-DL 480p & 720p',
+  link:
+   'https://pahe.in/longing-heart-season-1-complete-web-dl-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce0260a,
+  name: 'Into the Badlands Season 1-3 Complete BluRay 720p',
+  link: 'https://pahe.in/into-the-badlands-season-1-3/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce0260b,
+  name: 'Barbara (2012) BluRay 480p & 720p',
+  link: 'https://pahe.in/barbara-2012-bluray-480p-720p/',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce0260e,
+  name: 'Bikes (2018)',
+  link: 'https://yts.lt/movie/bikes-2018',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce0260f,
+  name: 'The Dead Don\'t Die (2019)',
+  link: 'https://yts.lt/movie/the-dead-dont-die-2019',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce0260d,
+  name: 'The Big Tease (1999)',
+  link: 'https://yts.lt/movie/the-big-tease-1999',
+  __v: 0 }
+undefined
+undefined
+undefined
+{ _id: 5d6b7fad7a326713fce02610,
+  name: 'I Trapped the Devil (2019)',
+  link: 'https://yts.lt/movie/i-trapped-the-devil-2019',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02615,
+  name: 'The Witches (1990)',
+  link: 'https://yts.lt/movie/the-witches-1990',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce0261a,
+  name: 'The Angry Red Planet (1959)',
+  link: 'https://yts.lt/movie/the-angry-red-planet-1959',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce0261f,
+  name: 'Angel of Mine (2019)',
+  link: 'https://yts.lt/movie/angel-of-mine-2019',
+  __v: 0 }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+{ _id: 5d6b7fad7a326713fce02612,
+  name: 'The 16th Episode (2019)',
+  link: 'https://yts.lt/movie/the-16th-episode-2019',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02617,
+  name: 'Eat Me (2018)',
+  link: 'https://yts.lt/movie/eat-me-2018',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce0261c,
+  name: 'Expo (2019)',
+  link: 'https://yts.lt/movie/expo-2019',
+  __v: 0 }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+{ _id: 5d6b7fad7a326713fce02613,
+  name: 'Te Ata (2016)',
+  link: 'https://yts.lt/movie/te-ata-2016',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02618,
+  name: 'Killers Anonymous (2019)',
+  link: 'https://yts.lt/movie/killers-anonymous-2019',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce0261d,
+  name: 'Memory: The Origins of Alien (2019)',
+  link: 'https://yts.lt/movie/memory-the-origins-of-alien-2019',
+  __v: 0 }
+undefined
+{ _id: 5d6b7fad7a326713fce02614,
+  name: 'London Heist (2017)',
+  link: 'https://yts.lt/movie/london-heist-2017',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02619,
+  name: 'The Thin Man (1934)',
+  link: 'https://yts.lt/movie/the-thin-man-1934',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce0261e,
+  name: 'Hostage (1983)',
+  link: 'https://yts.lt/movie/hostage-1983',
+  __v: 0 }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+{ _id: 5d6b7fad7a326713fce02611,
+  name: 'Planeta Singli (2016)',
+  link: 'https://yts.lt/movie/planeta-singli-2016',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02616,
+  name: 'Royally Ever After (2018)',
+  link: 'https://yts.lt/movie/royally-ever-after-2018',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce0261b,
+  name: 'Unbridled (2018)',
+  link: 'https://yts.lt/movie/unbridled-2018',
+  __v: 0 }
+{ _id: 5d6b7fad7a326713fce02620,
+  name: 'Itsy Bitsy (2019)',
+  link: 'https://yts.lt/movie/itsy-bitsy-2019',
+  __v: 0 }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+{ _id: 5d6b7fae7a326713fce02621,
+  name: 'Power => Update -> S06E02.720p.10bit.WEBRip',
+  link: 'https://psarips.eu/tv-show/power/',
+  __v: 0 }
+{ _id: 5d6b7fae7a326713fce02622,
+  name: 'The Dead Don’t Die (2019) => 720p.BrRip',
+  link: 'https://psarips.eu/movie/the-dead-dont-die-2019/',
+  __v: 0 }
+{ _id: 5d6b7fae7a326713fce02623,
+  name:
+   'Fear the Walking Dead => Update -> S05E12.internal.720p.WEBRip',
+  link: 'https://psarips.eu/tv-show/fear-the-walking-dead/',
+  __v: 0 }
+{ _id: 5d6b7fae7a326713fce02625,
+  name:
+   'The Terror => Update -> S02E01-02-03.720p-1080p.10bit.WEBRip',
+  link: 'https://psarips.eu/tv-show/the-terror/',
+  __v: 0 }
+{ _id: 5d6b7fae7a326713fce02624,
+  name: 'Killjoys => Update -> S05E07.720p-1080p.10bit.WEBRip',
+  link: 'https://psarips.eu/tv-show/killjoys/',
+  __v: 0 }
+{ _id: 5d6b7fae7a326713fce02626,
+  name: 'The Outpost => Update -> S02E08.720p.webrip',
+  link: 'https://psarips.eu/tv-show/the-outpost/',
+  __v: 0 }
+{ _id: 5d6b7fae7a326713fce02627,
+  name: 'Cold Blood (2019) => 720p.10bit.BluRay',
+  link: 'https://psarips.eu/movie/cold-blood-2019/',
+  __v: 0 }
+{ _id: 5d6b7fae7a326713fce02628,
+  name: 'Booksmart (2019) => update -> 720p-1080p.10bit.bluray',
+  link: 'https://psarips.eu/movie/booksmart-2019/',
+  __v: 0 }
+{ _id: 5d6b7fae7a326713fce02629,
+  name: 'The Righteous Gemstones => update -> S01E03.720p.WEBRip',
+  link: 'https://psarips.eu/tv-show/the-righteous-gemstones/',
+  __v: 0 }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+{ _id: 5d6b7fae7a326713fce0262e,
+  name: 'Preacher => Update ->  S04E06.INTERNAL.720p.WEBRip',
+  link: 'https://psarips.eu/tv-show/preacher/',
+  __v: 0 }
+undefined
+{ _id: 5d6b7fae7a326713fce0262c,
+  name: 'Succession => Update -> S02E04.720p.WEBRip.',
+  link: 'https://psarips.eu/tv-show/succession/',
+  __v: 0 }
+undefined
+{ _id: 5d6b7fae7a326713fce0262b,
+  name:
+   'The Dark Crystal: Age of Resistance => update -> S01.1080p.10bit.WEBRip',
+  link:
+   'https://psarips.eu/tv-show/the-dark-crystal-age-of-resistance/',
+  __v: 0 }
+{ _id: 5d6b7fae7a326713fce0262d,
+  name: 'Harlots => Update -> S03E08.720p.10bit.WEBRip',
+  link: 'https://psarips.eu/tv-show/harlots/',
+  __v: 0 }
+undefined
+undefined
+undefined
+undefined
+{ _id: 5d6b7fae7a326713fce0262a,
+  name: 'Killers Anonymous (2019) => update -> 1080p.10bit.BluRay',
+  link: 'https://psarips.eu/movie/killers-anonymous-2019/',
+  __v: 0 }
+{ _id: 5d6b7fae7a326713fce0262f,
+  name: 'In Fabric (2018) => update -> 1080p.10bit.BluRay',
+  link: 'https://psarips.eu/movie/in-fabric-2018/',
+  __v: 0 }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+{ _id: 5d6b7fb17a326713fce02630,
+  name: 'Cold Blood (2019) 720p BRRip HEVC 780MB',
+  link:
+   'https://www.mkvcage.me/cold-blood-2019-720p-brrip-hevc-780mb/',
+  __v: 0 }
+{ _id: 5d6b7fb17a326713fce02631,
+  name: 'Carnival Row S01E04 720p WEBRip HEVC 240MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e04-720p-webrip-hevc-240mb/',
+  __v: 0 }
+{ _id: 5d6b7fb17a326713fce02632,
+  name: 'Carnival Row S01E08 720p WEBRip HEVC 270MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e08-720p-webrip-hevc-270mb/',
+  __v: 0 }
+{ _id: 5d6b7fb17a326713fce02635,
+  name: 'Carnival Row S01E05 720p WEBRip HEVC 210MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e05-720p-webrip-hevc-210mb/',
+  __v: 0 }
+{ _id: 5d6b7fb17a326713fce02633,
+  name: 'Carnival Row S01E07 720p WEBRip HEVC 160MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e07-720p-webrip-hevc-160mb/',
+  __v: 0 }
+{ _id: 5d6b7fb17a326713fce02634,
+  name: 'Killers Anonymous (2019) 1080p BRRip HEVC 1.7GB',
+  link:
+   'https://www.mkvcage.me/killers-anonymous-2019-1080p-brrip-hevc-1-7gb/',
+  __v: 0 }
+{ _id: 5d6b7fb17a326713fce02636,
+  name: 'Carnival Row S01E06 720p WEBRip HEVC 200MB',
+  link:
+   'https://www.mkvcage.me/carnival-row-s01e06-720p-webrip-hevc-200mb/',
+  __v: 0 }
+{ _id: 5d6b7fb17a326713fce02637,
+  name: 'Killers Anonymous (2019) 720p BRRip HEVC 750MB',
+  link:
+   'https://www.mkvcage.me/killers-anonymous-2019-720p-brrip-hevc-750mb/',
+  __v: 0 }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
