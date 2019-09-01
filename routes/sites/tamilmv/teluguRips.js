@@ -1,10 +1,10 @@
 const cheerio = require("cheerio");
 const request = require("request");
 
-const tamilRips = () => {
+const teluguRips = () => {
   return new Promise((resolve, reject) => {
-    //tamil rips
-    var url = `https://www.tamilmv.bid/index.php?/forums/forum/12-hd-rips-dvd-rips-br-rips`;
+    //telugu rips
+    var url = `https://www.tamilmv.bid/index.php?/forums/forum/25-hd-rips-dvd-rips-br-rips`;
     url = encodeURI(url);
 
     var options = {
@@ -17,7 +17,7 @@ const tamilRips = () => {
     };
 
     try {
-      //tamil rips
+      //telugu rips
       request(options, function(err, response, body) {
         if (err) reject(err);
 
@@ -31,7 +31,15 @@ const tamilRips = () => {
               $(element)
                 .find(">a")
                 .text()
-                .includes("ESub")
+                .includes("ESub") &&
+              ($(element)
+                .find(">a")
+                .text()
+                .includes("720p") ||
+                $(element)
+                  .find(">a")
+                  .text()
+                  .includes("1080p"))
             ) {
               links[
                 $(element)
@@ -52,4 +60,4 @@ const tamilRips = () => {
   });
 };
 
-module.exports = tamilRips;
+module.exports = teluguRips;

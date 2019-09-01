@@ -1,10 +1,10 @@
 const cheerio = require("cheerio");
 const request = require("request");
 
-const tamilRips = () => {
+const teluguWeb = () => {
   return new Promise((resolve, reject) => {
-    //tamil rips
-    var url = `https://www.tamilmv.bid/index.php?/forums/forum/12-hd-rips-dvd-rips-br-rips`;
+    //telugu web
+    var url = `https://www.tamilmv.bid/index.php?/forums/forum/24-web-hd-itunes-hd-bluray`;
     url = encodeURI(url);
 
     var options = {
@@ -17,7 +17,7 @@ const tamilRips = () => {
     };
 
     try {
-      //tamil rips
+      //telugu web
       request(options, function(err, response, body) {
         if (err) reject(err);
 
@@ -52,4 +52,4 @@ const tamilRips = () => {
   });
 };
 
-module.exports = tamilRips;
+module.exports = teluguWeb;
