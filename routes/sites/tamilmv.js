@@ -2,75 +2,100 @@ const cheerio = require("cheerio");
 const request = require("request");
 const _ = require("lodash");
 
-var url;
-var options = {};
-
 const tamilmv = () => {
   return new Promise((resolve, reject) => {
-    url = `https://www.tamilmv.bid/index.php`;
-    url = encodeURI(url);
+    //tamil web hd/bluray
+    var tamilWebHD = `https://www.tamilmv.bid/index.php?/forums/forum/11-web-hd-itunes-hd-bluray/`;
+    tamilWebHD = encodeURI(tamilWebHD);
 
-    options = {
+    var tamilWebHDOptions = {
       method: "GET",
-      url: url,
+      url: tamilWebHD,
       headers: {
         "User-Agent":
           "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
       }
     };
 
+    // //tamil hdrips/brrips
+    // var tamilRips = `https://www.tamilmv.bid/index.php?/forums/forum/12-hd-rips-dvd-rips-br-rips`;
+    // tamilRips = encodeURI(tamilRips);
+
+    // var tamilRipsOptions = {
+    //   method: "GET",
+    //   url: tamilRips,
+    //   headers: {
+    //     "User-Agent":
+    //       "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+    //   }
+    // };
+
+    // //telugu web hd/bluray
+    // var teluguWebHD = `https://www.tamilmv.bid/index.php?/forums/forum/24-web-hd-itunes-hd-bluray/`;
+    // teluguWebHD = encodeURI(teluguWebHD);
+
+    // var teluguWebHDOptions = {
+    //   method: "GET",
+    //   url: teluguWebHD,
+    //   headers: {
+    //     "User-Agent":
+    //       "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+    //   }
+    // };
+
+    // //telugu hdrips
+    // var teluguRips = `https://www.tamilmv.bid/index.php?/forums/forum/25-hd-rips-dvd-rips-br-rips/`;
+    // teluguRips = encodeURI(teluguRips);
+
+    // var teluguRipsOptions = {
+    //   method: "GET",
+    //   url: teluguRips,
+    //   headers: {
+    //     "User-Agent":
+    //       "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+    //   }
+    // };
+
+    // //hindi web hd/bluray
+    // var hindiWebHD = `https://www.tamilmv.bid/index.php?/forums/forum/24-web-hd-itunes-hd-bluray/`;
+    // hindiWebHD = encodeURI(hindiWebHD);
+
+    // var hindiWebHDOptions = {
+    //   method: "GET",
+    //   url: hindiWebHD,
+    //   headers: {
+    //     "User-Agent":
+    //       "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+    //   }
+    // };
+
+    // //hindi hdrips
+    // var hindiRips = `https://www.tamilmv.bid/index.php?/forums/forum/25-hd-rips-dvd-rips-br-rips/`;
+    // hindiRips = encodeURI(hindiRips);
+
+    // var hindiRipsOptions = {
+    //   method: "GET",
+    //   url: hindiRips,
+    //   headers: {
+    //     "User-Agent":
+    //       "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+    //   }
+    // };
+
     try {
-      request(options, function(err, response, body) {
+      var tamilWebLinks = [];
+      //tamil web
+      request(tamilWebHDOptions, function(err, response, body) {
         if (err) reject(err);
 
         const $ = cheerio.load(body);
 
-        var title = [];
-        var link_ = [];
-        var urlObject = {};
-
-        $("div.ipsWidget_inner")
-          .find("strong")
-          .each((j, element) => {
-            var _link = $(element)
-              .find(">u>a")
-              .attr("href");
-            if (_link) {
-              link_.push(_link);
-            }
-          });
-
-        const uniqueArray = _.uniq(link_);
-        const matchedSites = uniqueArray.filter(link => link.includes("esub"));
-
-        $("div.ipsWidget_inner")
-          .find("span>span")
-          .each((j, element) => {
-            var _link = $(element)
-              .find(">strong")
-              .text();
-            if (_link) {
-              title.push(_link);
-            }
-          });
-
-        const matchedTitles = title.filter(
-          link => link.includes("ESub") && /\d/.test(link)
-        );
-
-        ("^https://www.tamilmv.bid/index.php?/forums/topic/+[0-9]*-");
-        matchedSites.forEach(s => {
-          console.log(
-            s
-              .replace("https://www.tamilmv.bid/index.php?/forums/topic/", "")
-              .replace(/^.[0-9]*-/, "")
-              .replace(/([-a-z]*[0-9]{4}\w)([a-z0-9-]*\/)/, "")
-              .replace(/([-a-z#]*[0-9]{4}\w)([a-z0-9-]*)/, "")
-          );
-        });
-
-        resolve({});
+        tamilWebLinks = $("div.ipsfocusBox")
+          .find("li.ipsDataItem ipsDataItem_responsivePhoto")
+          .text();
       });
+
+      resolve(tamilWebLinks);
     } catch (e) {
       reject(e);
     }
