@@ -31,7 +31,15 @@ const teluguWeb = () => {
               $(element)
                 .find(">a")
                 .text()
-                .includes("ESub")
+                .includes("ESub") &&
+              ($(element)
+                .find(">a")
+                .text()
+                .includes("720p") ||
+                $(element)
+                  .find(">a")
+                  .text()
+                  .includes("1080p"))
             ) {
               links[
                 $(element)

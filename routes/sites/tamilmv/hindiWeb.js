@@ -1,10 +1,10 @@
 const cheerio = require("cheerio");
 const request = require("request");
 
-const tamilWeb = () => {
+const hindiWeb = () => {
   return new Promise((resolve, reject) => {
-    //tamil web hd/bluray
-    var url = `https://www.tamilmv.bid/index.php?/forums/forum/11-web-hd-itunes-hd-bluray/`;
+    //hindi web hd/bluray
+    var url = `https://www.tamilmv.bid/index.php?/forums/forum/58-web-hd-itunes-hd-bluray`;
     url = encodeURI(url);
 
     var options = {
@@ -17,7 +17,7 @@ const tamilWeb = () => {
     };
 
     try {
-      //tamil web
+      //hindi web
       request(options, function(err, response, body) {
         if (err) reject(err);
 
@@ -60,4 +60,4 @@ const tamilWeb = () => {
   });
 };
 
-module.exports = tamilWeb;
+module.exports = hindiWeb;
