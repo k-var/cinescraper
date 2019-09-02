@@ -1,34 +1,20 @@
-const request = require("request");
+const axios = require("axios");
 
 //The MovieDB API Key
 const API_KEY = require("../../config/keys").tmdbAPIKEY;
 
-var url;
-var options = {};
-
 const getImg = name => {
   return new Promise((resolve, reject) => {
     url = `https://api.themoviedb.org/3/search/multi?api_key=${API_KEY}&language=en-US&query=${name}&page=1&include_adult=false`;
-    url = encodeURI(url);
 
-    options = {
-      method: "GET",
-      url: url,
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
-      }
-    };
-
-    try {
-      request(options, function(err, response, body) {
-        if (err) reject(err);
-
-        resolve(body);
+    axios
+      .get(url)
+      .then(response => {
+        resolve(response.data.results[0].poster_path);
+      })
+      .catch(error => {
+        reject(error);
       });
-    } catch (e) {
-      reject(e);
-    }
   });
 };
 
