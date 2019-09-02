@@ -39,12 +39,12 @@ const ytspm = () => {
                   .find(">a")
                   .text()
                   .trim() +
-                  " (" +
+                  " [" +
                   $(element)
                     .find(">div.browse-movie-year")
                     .text()
                     .trim() +
-                  ")"
+                  "]"
               ] = yts + href;
             }
           });

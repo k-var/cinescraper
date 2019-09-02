@@ -57,12 +57,12 @@ const ytslt = () => {
                     .find(">a")
                     .text()
                     .trim() +
-                    " (" +
+                    " [" +
                     $(element)
                       .find(">div.browse-movie-year")
                       .text()
                       .trim() +
-                    ")"
+                    "]"
                 ] = href;
               }
             });
