@@ -5,6 +5,7 @@ const cloudscraper = require("cloudscraper").defaults({ requester: requester });
 var url;
 var options = {};
 var linksObject = {};
+var imgObject = {};
 
 const mkvcageMe = () => {
   return new Promise((resolve, reject) => {
@@ -53,7 +54,20 @@ const mkvcageMe = () => {
                 .find(">a")
                 .attr("href");
             });
-          var arr = linksObject;
+
+          $("#main")
+            .find("div.site-content")
+            .each((j, element) => {
+              imgObject[
+                $(element)
+                  .find("h2.entry-title")
+                  .text()
+              ] = $(element)
+                .find("img.aligncenter")
+                .attr("src");
+            });
+
+          var arr = imgObject;
 
           resolve(arr);
         } catch (error) {
