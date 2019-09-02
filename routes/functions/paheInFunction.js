@@ -12,38 +12,36 @@ const paheInFunction = () => {
     .then(links => {
       var namesArray = Object.keys(links);
       namesArray.forEach((name, index) => {
-        if (name.includes("(")) {
-          metaName = name.split("(")[0];
-        } else if (name.includes("Season")) {
-          metaName = name.split("Season")[0];
-        }
-
         Item.findOne({ name: name }).then(item => {
           if (item) {
             //throw an error
             console.log("Pahe.in error: Link name exists!");
           } else {
-            console.log(metaName);
-            // getImg(metaName)
-            //   .then(res => {
-            //     var imgSrc = "https://image.tmdb.org/t/p/original" + res;
-            //     const newItem = { name: name, link: links[name], img: imgSrc };
-            //     //create new item
-            //     new Item(newItem)
-            //       .save()
-            //       .then(item => {
-            //         console.log(item);
-            //         sendPushMsg(item.name, item.link)
-            //           .then(res => {
-            //             console.log(res);
-            //           })
-            //           .catch(err => {
-            //             console.log(err);
-            //           });
-            //       })
-            //       .catch(err => console.log(err));
-            //   })
-            //   .catch(err => console.log(err));
+            if (name.includes("(")) {
+              metaName = name.split("(")[0];
+            } else if (name.includes("Season")) {
+              metaName = name.split("Season")[0];
+            }
+            getImg(metaName)
+              .then(res => {
+                var imgSrc = "https://image.tmdb.org/t/p/original" + res;
+                const newItem = { name: name, link: links[name], img: imgSrc };
+                //create new item
+                new Item(newItem)
+                  .save()
+                  .then(item => {
+                    console.log(item);
+                    sendPushMsg(item.name, item.link)
+                      .then(res => {
+                        console.log(res);
+                      })
+                      .catch(err => {
+                        console.log(err);
+                      });
+                  })
+                  .catch(err => console.log(err));
+              })
+              .catch(err => console.log(err));
           }
         });
       });
