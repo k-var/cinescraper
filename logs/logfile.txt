@@ -270,3 +270,6 @@ error: Script restart attempt #1
 Server started at: 11:25:48 am
 CineBot will be activated at: 11:40:48 am
 Successfully Connected to MongoDB
+Server started at: 11:26:27 am
+CineBot will be activated at: 11:41:27 am
+Successfully Connected to MongoDB
