@@ -6,7 +6,7 @@ const API_KEY = require("../../config/keys").tmdbAPIKEY;
 const getImg = name => {
   return new Promise((resolve, reject) => {
     url = `https://api.themoviedb.org/3/search/multi?api_key=${API_KEY}&language=en-US&query=${name}&page=1&include_adult=false`;
-
+    url = encodeURI(url);
     axios
       .get(url)
       .then(response => {
