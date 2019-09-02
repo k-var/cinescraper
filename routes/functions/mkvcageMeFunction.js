@@ -15,7 +15,6 @@ const mkvcageMeFunction = () => {
           link: links.hrefLinks[name],
           img: links.imgLinks[name]
         };
-        console.log(newItem);
         Item.findOne({ name: name }).then(item => {
           if (item) {
             //throw an error
