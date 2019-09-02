@@ -49,3 +49,4 @@ setInterval(() => {
   ytsltFunction();
   tamilmvFunction();
 }, runInterval);
+ytsltFunction();
