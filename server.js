@@ -36,16 +36,17 @@ const runInterval = 900000;
 const updateTime = require("./routes/functions/updateTime");
 
 // call site scrape functions
-setInterval(() => {
-  nowTime = moment().format("h:mm:ss a");
-  next_time = moment().add(15, "minutes");
-  nextTime = moment(next_time).format("h:mm:ss a");
-  updateTime(nowTime, nextTime);
-  paheInFunction();
-  mkvcageMeFunction();
-  threeHundredFunction();
-  psaripsFunction();
-  ytspmFunction();
-  ytsltFunction();
-  tamilmvFunction();
-}, runInterval);
+// setInterval(() => {
+//   nowTime = moment().format("h:mm:ss a");
+//   next_time = moment().add(15, "minutes");
+//   nextTime = moment(next_time).format("h:mm:ss a");
+//   updateTime(nowTime, nextTime);
+//   paheInFunction();
+//   mkvcageMeFunction();
+//   threeHundredFunction();
+//   psaripsFunction();
+//   ytspmFunction();
+//   ytsltFunction();
+//   tamilmvFunction();
+// }, runInterval);
+threeHundredFunction();

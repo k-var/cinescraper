@@ -4,6 +4,7 @@ const request = require("request");
 var url;
 var options = {};
 var linksObject = {};
+var imgObject = {};
 
 const threeHundred = () => {
   return new Promise((resolve, reject) => {
@@ -32,7 +33,24 @@ const threeHundred = () => {
               .find(">a")
               .attr("href");
           });
-        var arr = linksObject;
+
+        $("#content")
+          .find("div.post.type-post.status-publish")
+          .each((j, element) => {
+            var name = $(element)
+              .find("h2.title")
+              .text();
+            var img = $(element)
+              .find("img.aligncenter")
+              .attr("src");
+            imgObject[name] = img;
+          });
+
+        var updateObject = {
+          hrefLinks: linksObject,
+          imgLinks: imgObject
+        };
+        var arr = updateObject;
 
         resolve(arr);
       });
