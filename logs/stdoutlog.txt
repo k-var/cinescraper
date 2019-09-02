@@ -1,3 +1,268 @@
-Server started at: 11:10:00 am
-CineBot will be activated at: 11:25:00 am
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+Now running tamilmvFunction
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '11:25:00 am' }
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '11:40:00 am' }
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Tamilmv error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+Tamilmv error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d6caeb834cb4f4200f2ac2b,
+  name: 'Dark Phoenix (2019) => update -> 720p-1080p.10bit.BluRay',
+  link: 'https://psarips.eu/movie/dark-phoenix-2019/',
+  __v: 0 }
+{ _id: 5d6caeb834cb4f4200f2ac2c,
+  name: 'Peaky Blinders => Update -> S05E03.720p.HDTV',
+  link: 'https://psarips.eu/tv-show/peaky-blinders/',
+  __v: 0 }
+{ _id: 5d6caeb834cb4f4200f2ac2d,
+  name: 'The Terror => Update -> S02E04.INTERNAL.720p.WEBRip',
+  link: 'https://psarips.eu/tv-show/the-terror/',
+  __v: 0 }
+Dark Phoenix (2019) => update -> 720p-1080p.10bit.BluRay
+The Terror => Update -> S02E04.INTERNAL.720p.WEBRip
+Peaky Blinders => Update -> S05E03.720p.HDTV
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+{ _id: 5d6caebc34cb4f4200f2ac30,
+  name: 'The Ugly American (1963)',
+  link: 'https://yts.lt/movie/the-ugly-american-1963',
+  __v: 0 }
+{ _id: 5d6caebc34cb4f4200f2ac2e,
+  name: 'The Creatress (2019)',
+  link: 'https://yts.lt/movie/the-creatress-2019',
+  __v: 0 }
+{ _id: 5d6caebc34cb4f4200f2ac2f,
+  name: 'Nobody Famous (2018)',
+  link: 'https://yts.lt/movie/nobody-famous-2018',
+  __v: 0 }
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+{ _id: 5d6caebc34cb4f4200f2ac32,
+  name: 'The Glass House (2001) 720p WEB HD 850MB',
+  link:
+   'https://www.mkvcage.me/the-glass-house-2001-720p-web-hd-850mb/',
+  __v: 0 }
+{ _id: 5d6caebc34cb4f4200f2ac33,
+  name: 'The Terror S01E09 720p WEBRip HEVC 280MB',
+  link:
+   'https://www.mkvcage.me/the-terror-s01e09-720p-webrip-hevc-280mb/',
+  __v: 0 }
+{ _id: 5d6caebc34cb4f4200f2ac35,
+  name: 'Killjoys S05E07 720p WEBRip HEVC 220MB',
+  link:
+   'https://www.mkvcage.me/killjoys-s05e07-720p-webrip-hevc-220mb/',
+  __v: 0 }
+{ _id: 5d6caebc34cb4f4200f2ac37,
+  name: 'The Witches (1990) 720p BRRip HEVC 820MB',
+  link:
+   'https://www.mkvcage.me/the-witches-1990-720p-brrip-hevc-820mb/',
+  __v: 0 }
+{ _id: 5d6caebc34cb4f4200f2ac34,
+  name: 'Power S06E02 720p WEBRip HEVC 280MB',
+  link:
+   'https://www.mkvcage.me/power-s06e02-720p-webrip-hevc-280mb/',
+  __v: 0 }
+{ _id: 5d6caebc34cb4f4200f2ac36,
+  name: 'Killjoys S05E06 720p WEBRip HEVC 210MB',
+  link:
+   'https://www.mkvcage.me/killjoys-s05e06-720p-webrip-hevc-210mb/',
+  __v: 0 }
+The Ugly American (1963)
+{ _id: 5d6caebc34cb4f4200f2ac31,
+  name: 'Into the Sun (2005)',
+  link: 'https://yts.lt/movie/into-the-sun-2005',
+  __v: 0 }
+Nobody Famous (2018)
+The Witches (1990) 720p BRRip HEVC 820MB
+Killjoys S05E07 720p WEBRip HEVC 220MB
+The Creatress (2019)
+The Glass House (2001) 720p WEB HD 850MB
+Killjoys S05E06 720p WEBRip HEVC 210MB
+Power S06E02 720p WEBRip HEVC 280MB
+The Terror S01E09 720p WEBRip HEVC 280MB
+Into the Sun (2005)
+Server started at: 11:25:45 am
+CineBot will be activated at: 11:40:45 am
+Successfully Connected to MongoDB
+Server started at: 11:25:48 am
+CineBot will be activated at: 11:40:48 am
 Successfully Connected to MongoDB
