@@ -10,6 +10,10 @@ const ItemSchema = new Schema({
   link: {
     type: String,
     required: true
+  },
+  img: {
+    type: String,
+    required: true
   }
 });
 
