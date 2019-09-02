@@ -56,15 +56,15 @@ const mkvcageMe = () => {
             });
 
           $("#main")
-            .find("div.site-content")
+            .find("article.clearfix")
             .each((j, element) => {
-              imgObject[
-                $(element)
-                  .find("h2.entry-title")
-                  .text()
-              ] = $(element)
+              var name = $(element)
+                .find("h2.entry-title")
+                .text();
+              var img = $(element)
                 .find("img.aligncenter")
                 .attr("src");
+              imgObject[name] = img;
             });
 
           var arr = imgObject;
