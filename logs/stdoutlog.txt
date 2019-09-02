@@ -1,0 +1,3 @@
+Server started at: 11:10:00 am
+CineBot will be activated at: 11:25:00 am
+Successfully Connected to MongoDB
