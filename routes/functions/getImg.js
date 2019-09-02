@@ -5,11 +5,10 @@ const API_KEY = require("../../config/keys").tmdbAPIKEY;
 
 var url;
 var options = {};
-var linksObject = {};
 
-const getImg = () => {
+const getImg = name => {
   return new Promise((resolve, reject) => {
-    url = `https://api.themoviedb.org/3/search/multi?api_key=${API_KEY}&language=en-US&query=arrow&page=1&include_adult=false`;
+    url = `https://api.themoviedb.org/3/search/multi?api_key=${API_KEY}&language=en-US&query=${name}&page=1&include_adult=false`;
     url = encodeURI(url);
 
     options = {
@@ -25,7 +24,7 @@ const getImg = () => {
       request(options, function(err, response, body) {
         if (err) reject(err);
 
-        resolve(arr);
+        resolve(body);
       });
     } catch (e) {
       reject(e);
