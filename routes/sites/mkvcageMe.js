@@ -67,7 +67,11 @@ const mkvcageMe = () => {
               imgObject[name] = img;
             });
 
-          var arr = imgObject;
+          var updateObject = {
+            hrefLinks: linksObject,
+            imgLinks: imgObject
+          };
+          var arr = updateObject;
 
           resolve(arr);
         } catch (error) {
