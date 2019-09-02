@@ -13,10 +13,9 @@ const paheInFunction = () => {
         if (name.includes("(")) {
           var metaName = name.split("(")[0];
           getImg(metaName).then(res => {
-            console.log(res.results[0].title);
+            console.log(Object.keys(res));
           });
         }
-
         // const newItem = { name: name, link: links[name] };
         // Item.findOne({ name: name }).then(item => {
         //   if (item) {
