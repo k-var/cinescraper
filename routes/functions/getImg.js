@@ -10,7 +10,14 @@ const getImg = name => {
     axios
       .get(url)
       .then(response => {
-        resolve(response.data.results[0].poster_path);
+        if (
+          response.data.results[0].poster_path &&
+          response.data.results[0].poster_path !== null
+        ) {
+          resolve(response.data.results[0].poster_path);
+        } else {
+          resolve(null);
+        }
       })
       .catch(error => {
         reject(error);
