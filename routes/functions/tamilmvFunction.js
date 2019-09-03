@@ -26,28 +26,28 @@ const tamilmvFunction = () => {
       .then(links => {
         var namesArray = Object.keys(links);
         namesArray.forEach((name, index) => {
-          const newItem = { name: name, link: links[name], img: "delete" };
           Item.findOne({ name: name }).then(item => {
             if (item) {
               //throw an error
               console.log("Tamilmv error: Link name exists!");
-              getTamilmvImg(links[name]).then(res => console.log(res));
             } else {
-              getTamilmvImg(links[name]).then(res => console.log(res));
-              //create new item
-              // new Item(newItem)
-              //   .save()
-              //   .then(item => {
-              //     console.log(item);
-              //     sendPushMsg(item.name, item.link)
-              //       .then(res => {
-              //         console.log(res);
-              //       })
-              //       .catch(err => {
-              //         console.log(err);
-              //       });
-              //   })
-              //   .catch(err => console.log(err));
+              getTamilmvImg(links[name]).then(res => {
+                const newItem = { name: name, link: links[name], img: res };
+                //create new item
+                new Item(newItem)
+                  .save()
+                  .then(item => {
+                    console.log(item);
+                    sendPushMsg(item.name, item.link)
+                      .then(res => {
+                        console.log(res);
+                      })
+                      .catch(err => {
+                        console.log(err);
+                      });
+                  })
+                  .catch(err => console.log(err));
+              });
             }
           });
         });
