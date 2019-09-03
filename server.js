@@ -47,6 +47,5 @@ setInterval(() => {
   psaripsFunction();
   ytspmFunction();
   ytsltFunction();
-  tamilmvFunction();
+  // tamilmvFunction();
 }, runInterval);
-ytsltFunction();
