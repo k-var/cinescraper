@@ -22,7 +22,12 @@ const ytsltFunction = () => {
 
             getImg(metaName)
               .then(res => {
-                var imgSrc = "https://image.tmdb.org/t/p/original" + res;
+                var imgSrc;
+                if (res !== null) {
+                  imgSrc = "https://image.tmdb.org/t/p/original" + res;
+                } else {
+                  imgSrc = "null";
+                }
                 const newItem = { name: name, link: links[name], img: imgSrc };
                 //create new item
                 new Item(newItem)
