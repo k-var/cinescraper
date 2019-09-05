@@ -1388,3 +1388,6 @@ yts.lt error: Link name exists!
 TypeError: Cannot read property 'poster_path' of undefined
     at axios.get.then.response (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\functions\getImg.js:14:36)
     at process._tickCallback (internal/process/next_tick.js:68:7)
+Server started at: 9:18:00 pm
+CineBot will be activated at: 9:33:00 pm
+Successfully Connected to MongoDB
