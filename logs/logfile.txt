@@ -962,3 +962,18 @@ yts.lt error: Link name exists!
 TypeError: Cannot read property 'poster_path' of undefined
     at axios.get.then.response (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\functions\getImg.js:14:36)
     at process._tickCallback (internal/process/next_tick.js:68:7)
+Server started at: 8:54:24 pm
+CineBot will be activated at: 9:09:24 pm
+{ Error: querySrv ETIMEOUT _mongodb._tcp.cluster0-a4wrw.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:196:19)
+  errno: 'ETIMEOUT',
+  code: 'ETIMEOUT',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0-a4wrw.mongodb.net' }
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+Now running tamilmvFunction
