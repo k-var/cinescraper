@@ -977,3 +977,107 @@ Now running psaripsFunction
 Now running ytspmFunction
 Now running ytsltFunction
 Now running tamilmvFunction
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+Now running tamilmvFunction
+TypeError: Cannot read property 'parent' of undefined
+    at Function.exports.update (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:69:26)
+    at module.exports (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:19:11)
+    at Function.exports.load (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\static.js:27:14)
+    at Request._callback (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\sites\mkvcageMe.js:48:29)
+    at self.callback (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:185:22)
+    at onRequestResponse (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:153:12)
+    at Request.<anonymous> (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:132:7)
+    at Object.onceWrapper (events.js:277:13)
+    at Request.emit (events.js:189:13)
+    at Request.onRequestError (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:881:8)
+    at ClientRequest.emit (events.js:189:13)
+    at TLSSocket.socketOnEnd (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:194:15)
+    at endReadableNT (_stream_readable.js:1125:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+{ RequestError: Error: socket hang up
+    at onRequestResponse (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:153:21)
+    at Request.<anonymous> (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cloudscraper\index.js:132:7)
+    at Object.onceWrapper (events.js:277:13)
+    at Request.emit (events.js:189:13)
+    at Request.onRequestError (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:881:8)
+    at ClientRequest.emit (events.js:189:13)
+    at TLSSocket.socketOnEnd (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:194:15)
+    at endReadableNT (_stream_readable.js:1125:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19) name: 'RequestError', message: 'Error: socket hang up' }
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+Now running tamilmvFunction
+C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:69
+    var oldParent = node.parent || node.root,
+                         ^
+
+TypeError: Cannot read property 'parent' of undefined
+    at Function.exports.update (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:69:26)
+    at module.exports (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:19:11)
+    at Function.exports.load (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\static.js:27:14)
+    at Request._callback (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\sites\psarips.js:25:27)
+    at self.callback (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:189:13)
+    at Request.onRequestError (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:881:8)
+    at ClientRequest.emit (events.js:189:13)
+    at TLSSocket.socketErrorListener (_http_client.js:392:9)
+    at TLSSocket.emit (events.js:189:13)
+    at emitErrorNT (internal/streams/destroy.js:82:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+Server started at: 9:39:45 pm
+CineBot will be activated at: 9:54:45 pm
+{ Error: querySrv ETIMEOUT _mongodb._tcp.cluster0-a4wrw.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:196:19)
+  errno: 'ETIMEOUT',
+  code: 'ETIMEOUT',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0-a4wrw.mongodb.net' }
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+Now running tamilmvFunction
+C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:69
+    var oldParent = node.parent || node.root,
+                         ^
+
+TypeError: Cannot read property 'parent' of undefined
+    at Function.exports.update (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:69:26)
+    at module.exports (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\parse.js:19:11)
+    at Function.exports.load (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\cheerio\lib\static.js:27:14)
+    at Request._callback (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\sites\paheIn.js:26:27)
+    at self.callback (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:189:13)
+    at Request.onRequestError (C:\Users\wnipu\Documents\GitHub\cinescraper\node_modules\request\request.js:881:8)
+    at ClientRequest.emit (events.js:189:13)
+    at TLSSocket.socketErrorListener (_http_client.js:392:9)
+    at TLSSocket.emit (events.js:189:13)
+    at emitErrorNT (internal/streams/destroy.js:82:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+Server started at: 9:54:57 pm
+CineBot will be activated at: 10:09:57 pm
+{ Error: querySrv ETIMEOUT _mongodb._tcp.cluster0-a4wrw.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:196:19)
+  errno: 'ETIMEOUT',
+  code: 'ETIMEOUT',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0-a4wrw.mongodb.net' }
