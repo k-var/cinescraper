@@ -532,3 +532,221 @@ yts.lt error: Link name exists!
 TypeError: Cannot read property 'poster_path' of undefined
     at axios.get.then.response (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\functions\getImg.js:14:36)
     at process._tickCallback (internal/process/next_tick.js:68:7)
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+Now running tamilmvFunction
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '9:35:24 am' }
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '9:20:24 am' }
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+TypeError: Cannot read property 'poster_path' of undefined
+    at axios.get.then.response (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\functions\getImg.js:14:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+TypeError: Cannot read property 'poster_path' of undefined
+    at axios.get.then.response (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\functions\getImg.js:14:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+{ _id: 5d71d787dd0a6e306476796d,
+  name: 'BH90210 S01E05 720p WEBRip HEVC 200MB',
+  link:
+   'https://www.mkvcage.me/bh90210-s01e05-720p-webrip-hevc-200mb/',
+  img: 'https://i.imgur.com/n0MR8CU.jpg',
+  __v: 0 }
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+TypeError: Cannot read property 'poster_path' of undefined
+    at axios.get.then.response (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\functions\getImg.js:14:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+undefined
