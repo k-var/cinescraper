@@ -1110,3 +1110,9 @@ error: Forever detected script exited with code: 1
 error: Script restart attempt #3
 Server started at: 10:09:58 pm
 CineBot will be activated at: 10:24:58 pm
+{ Error: querySrv ETIMEOUT _mongodb._tcp.cluster0-a4wrw.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (dns.js:196:19)
+  errno: 'ETIMEOUT',
+  code: 'ETIMEOUT',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0-a4wrw.mongodb.net' }
