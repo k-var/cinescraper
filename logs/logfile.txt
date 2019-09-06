@@ -1,3 +1,323 @@
 Server started at: 8:35:24 am
 CineBot will be activated at: 8:50:24 am
 Successfully Connected to MongoDB
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+Now running tamilmvFunction
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '8:50:24 am' }
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '9:05:24 am' }
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d71d07bdd0a6e306476795b,
+  name: 'Juug Gone Wrong [2018]',
+  link: 'https://yts.pm/movies/juug-gone-wrong-2018',
+  img:
+   'https://image.tmdb.org/t/p/original/1cg7CK6NEyBsYjtH0mGnvymJ76t.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+{ _id: 5d71d07bdd0a6e306476795f,
+  name: 'Style Wars [1983]',
+  link: 'https://yts.pm/movies/style-wars-1983',
+  img:
+   'https://image.tmdb.org/t/p/original/1QdmpMYdYuK7r2BuJDjFBxxARtx.jpg',
+  __v: 0 }
+PSARips error: Link name exists!
+yts.pm error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d71d07bdd0a6e306476795e,
+  name: 'Finding Kim [2016]',
+  link: 'https://yts.pm/movies/finding-kim-2016',
+  img:
+   'https://image.tmdb.org/t/p/original/hgkhTE36aCjpC6GrAPi5nX4vT8F.jpg',
+  __v: 0 }
+yts.pm error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d71d07bdd0a6e306476795c,
+  name: 'Lead with Your Heart [2015]',
+  link: 'https://yts.pm/movies/lead-with-your-heart-2015',
+  img:
+   'https://image.tmdb.org/t/p/original/eXMqE7sAps8A8RR2dU5ngOZ6a8z.jpg',
+  __v: 0 }
+{ _id: 5d71d07bdd0a6e3064767961,
+  name:
+   'Drunk Stoned Brilliant Dead: The Story of the National Lampoon [2015]',
+  link:
+   'https://yts.pm/movies/drunk-stoned-brilliant-dead-the-story-of-the-national-lampoon-2015',
+  img:
+   'https://image.tmdb.org/t/p/original/t7fqemeHtEaxG0Ry0bTox4spBY0.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Pahe.in error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d71d07bdd0a6e306476795d,
+  name: 'The Birthday Wish [2017]',
+  link: 'https://yts.pm/movies/the-birthday-wish-2017',
+  img:
+   'https://image.tmdb.org/t/p/original/xxKd2bO84niAxWb5edkjLL4R2WW.jpg',
+  __v: 0 }
+{ _id: 5d71d07cdd0a6e3064767962,
+  name: 'The Third Wife (2018) WEB-HD 480p & 720p',
+  link: 'https://pahe.in/the-third-wife-2018-web-hd-480p-720p/',
+  img:
+   'https://image.tmdb.org/t/p/original/lU5WzfaCT5WbqNY6JvdNkvf0ngd.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+TypeError: Cannot read property 'poster_path' of undefined
+    at axios.get.then.response (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\functions\getImg.js:14:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+{ _id: 5d71d07cdd0a6e3064767963,
+  name: 'Resurrection of the Golden Wolf (1979) BluRay 480p & 720p',
+  link:
+   'https://pahe.in/resurrection-of-the-golden-wolf-1979-bluray-480p-720p/',
+  img:
+   'https://image.tmdb.org/t/p/original/d3xneh0e00v4yIFeZmAc2qSyIp5.jpg',
+  __v: 0 }
+{ _id: 5d71d07cdd0a6e3064767964,
+  name: 'The Shock Labyrinth (2009) BluRay 480p & 720p',
+  link: 'https://pahe.in/the-shock-labyrinth-2009-bluray-480p-720p/',
+  img:
+   'https://image.tmdb.org/t/p/original/2Ux84iiZ6NP4dzSibCeqYTQmew3.jpg',
+  __v: 0 }
+PSARips error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d71d07bdd0a6e3064767960,
+  name: 'Boom Town [1940]',
+  link: 'https://yts.pm/movies/boom-town-1940',
+  img:
+   'https://image.tmdb.org/t/p/original/2G67s9rD2qFYfJdk9cZEGGPWzqv.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+TypeError: Cannot read property 'poster_path' of undefined
+    at axios.get.then.response (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\functions\getImg.js:14:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+{ _id: 5d71d07ddd0a6e3064767965,
+  name: 'Riverdale Season 1-3 Complete BluRay 480p & 720p',
+  link: 'https://pahe.in/riverdale-season-1-3/',
+  img:
+   'https://image.tmdb.org/t/p/original/gskv297rlbyzLaTU1XZf8UBbxp0.jpg',
+  __v: 0 }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+{ _id: 5d71d07fdd0a6e3064767966,
+  name: 'K-12 (2019) 720p WEB-DL 750MB',
+  link: 'https://www.mkvcage.me/k-12-2019-720p-web-dl-750mb/',
+  img: 'https://images2.imagebam.com/f1/86/c7/38069e1314227437.jpg',
+  __v: 0 }
+{ _id: 5d71d07fdd0a6e3064767968,
+  name: 'Come and See (1985) 720p BRRip 1.3GB',
+  link: 'https://www.mkvcage.me/come-and-see-1985-720p-brrip-1-3gb/',
+  img: 'https://images2.imagebam.com/37/8a/2c/3234491314231529.jpg',
+  __v: 0 }
+{ _id: 5d71d07fdd0a6e3064767969,
+  name: 'BH90210  S01E04 720p WEBRip HEVC 200MB',
+  link:
+   'https://www.mkvcage.me/bh90210-s01e04-720p-webrip-hevc-200mb/',
+  img: 'https://i.imgur.com/n0MR8CU.jpg',
+  __v: 0 }
+{ _id: 5d71d07fdd0a6e306476796a,
+  name: 'BH90210 S01E01 720p WEBRip HEVC 200MB',
+  link:
+   'https://www.mkvcage.me/bh90210-s01e01-720p-webrip-hevc-200mb/',
+  img: 'https://i.imgur.com/n0MR8CU.jpg',
+  __v: 0 }
+{ _id: 5d71d07fdd0a6e306476796b,
+  name: 'BH90210 S01E02 720p WEBRip HEVC 200MB',
+  link:
+   'https://www.mkvcage.me/bh90210-s01e02-720p-webrip-hevc-200mb/',
+  img: 'https://i.imgur.com/n0MR8CU.jpg',
+  __v: 0 }
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+{ _id: 5d71d07fdd0a6e3064767967,
+  name: 'BH90210 S01E03 720p WEBRip HEVC 210MB',
+  link:
+   'https://www.mkvcage.me/bh90210-s01e03-720p-webrip-hevc-210mb/',
+  img: 'https://i.imgur.com/n0MR8CU.jpg',
+  __v: 0 }
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+TypeError: Cannot read property 'poster_path' of undefined
+    at axios.get.then.response (C:\Users\wnipu\Documents\GitHub\cinescraper\routes\functions\getImg.js:14:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+{ _id: 5d71d080dd0a6e306476796c,
+  name: 'Dudes [1987]',
+  link: 'https://yts.lt/movie/dudes-1987',
+  img:
+   'https://image.tmdb.org/t/p/original/fImxeSfAlpX4yBr5E1QAL7K9h9U.jpg',
+  __v: 0 }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
