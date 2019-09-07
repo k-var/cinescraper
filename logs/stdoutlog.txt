@@ -8535,3 +8535,225 @@ MkvCage.me error: Link name exists!
   img: 'https://images2.imagebam.com/51/bb/1e/0cc13b1314549643.jpg',
   __v: 0 }
 undefined
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+Now running tamilmvFunction
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '9:03:45 am' }
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '9:18:45 am' }
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+{ _id: 5d732521e5f4de0c64e20604,
+  name: 'The Vatican Tapes (2015) 720p BRRip 649.88MB',
+  link:
+   'https://www.mkvcage.me/the-vatican-tapes-2015-720p-brrip-649-88mb/',
+  img: 'https://images2.imagebam.com/41/31/44/b7dcdc1314557205.jpg',
+  __v: 0 }
+undefined
