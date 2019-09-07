@@ -2719,3 +2719,329 @@ Pahe.in error: Link name exists!
 Server started at: 4:13:50 pm
 CineBot will be activated at: 4:28:50 pm
 Successfully Connected to MongoDB
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+Now running tamilmvFunction
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '4:28:50 pm' }
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '4:43:50 pm' }
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+PSARips error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+PSARips error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d738d781b55b633fcaaeb93,
+  name: 'Into the Ashes (2019) BRRip 600MB nItRo',
+  link:
+   'https://www.300mbfilms.io/into-the-ashes-2019-brrip-600mb-nitro',
+  img: 'https://i.imgur.com/HgnHs2s.jpg',
+  __v: 0 }
+PSARips error: Link name exists!
+Pahe.in error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Pahe.in error: Link name exists!
+PSARips error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+{ _id: 5d738d7a1b55b633fcaaeb98,
+  name: 'Titans (2018) S02E01 720p WEBRip 375MB nItRo',
+  link:
+   'https://www.300mbfilms.io/titans-2018-s02e01-720p-webrip-375mb-nitro',
+  img: 'https://i.imgur.com/FDiP9D4.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d738d781b55b633fcaaeb94,
+  name: 'Fear The Walking Dead S05E13 720p WEB 300MB nItRo',
+  link:
+   'https://www.300mbfilms.io/fear-the-walking-dead-s05e13-720p-web-300mb-nitro',
+  img: 'https://i.imgur.com/eey3lXr.jpg',
+  __v: 0 }
+{ _id: 5d738d7a1b55b633fcaaeb99,
+  name: 'Strange But True (2019) 720p WEB-DL 600MB nItRo',
+  link:
+   'https://www.300mbfilms.io/strange-but-true-2019-720p-web-dl-600mb-nitro',
+  img: 'https://i.imgur.com/NPnIdOA.jpg',
+  __v: 0 }
+Pahe.in error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+Tamilmv error: Link name exists!
+yts.lt error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d738d7a1b55b633fcaaeb96,
+  name: 'Blinded by the Light (2019) 720p WEB-DL 750MB nItRo',
+  link:
+   'https://www.300mbfilms.io/blinded-by-the-light-2019-720p-web-dl-750mb-nitro',
+  img: 'https://i.imgur.com/SvX4iI4.jpg',
+  __v: 0 }
+MkvCage.me error: Link name exists!
+{ _id: 5d738d7e1b55b633fcaaeb9c,
+  name: 'Elite S02E06 720p WEBRip HEVC 183.65MB',
+  link:
+   'https://www.mkvcage.me/elite-s02e06-720p-webrip-hevc-183-65mb/',
+  img: 'https://images2.imagebam.com/5b/1e/6b/db1bd61314581852.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Pahe.in error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d738d7a1b55b633fcaaeb97,
+  name: 'Next Level (2019) 720p WEB-DL 600MB nItRo',
+  link:
+   'https://www.300mbfilms.io/next-level-2019-720p-web-dl-600mb-nitro',
+  img: 'https://i.imgur.com/ag8tgzv.jpg',
+  __v: 0 }
+MkvCage.me error: Link name exists!
+{ _id: 5d738d801b55b633fcaaeb9d,
+  name: 'Elite S02E08 720p WEBRip HEVC 196.01MB',
+  link:
+   'https://www.mkvcage.me/elite-s02e08-720p-webrip-hevc-196-01mb/',
+  img: 'https://images2.imagebam.com/5b/1e/6b/db1bd61314581852.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+undefined
+undefined
+{ _id: 5d738d821b55b633fcaaeb9e,
+  name: 'The Spy => update -> S01.1080p.WEBRip',
+  link: 'https://psarips.eu/tv-show/the-spy/',
+  img:
+   'https://image.tmdb.org/t/p/original/bCGC6cAEKzm45J7SPsApAnp9mNx.jpg',
+  __v: 0 }
+undefined
+{ _id: 5d738d821b55b633fcaaeb9f,
+  name: 'The Outpost => Update -> S02E09.720p.webrip',
+  link: 'https://psarips.eu/tv-show/the-outpost/',
+  img:
+   'https://image.tmdb.org/t/p/original/trIJQk33LXzu6TuFTbMPYmveoFC.jpg',
+  __v: 0 }
+undefined
+{ _id: 5d738d821b55b633fcaaeba0,
+  name:
+   'Fear the Walking Dead => Update -> S05E13.INTERNAL.720p.WEBRp',
+  link: 'https://psarips.eu/tv-show/fear-the-walking-dead/',
+  img:
+   'https://image.tmdb.org/t/p/original/lZMb3R3e5vqukPbeDMeyYGf2ZNG.jpg',
+  __v: 0 }
+{ _id: 5d738d821b55b633fcaaeba1,
+  name: 'Wonderful Days (2003) BluRay 480p & 720p',
+  link: 'https://pahe.in/wonderful-days-2003-bluray-480p-720p/',
+  img:
+   'https://image.tmdb.org/t/p/original/gL1GPYBsRSKwVLDPY6n1nX3mKmo.jpg',
+  __v: 0 }
+{ _id: 5d738d821b55b633fcaaeba2,
+  name: 'Yaara O Dildaara (2011) WEB-HD 480p & 720p',
+  link: 'https://pahe.in/yaara-o-dildaara-2011-web-hd-480p-720p/',
+  img:
+   'https://image.tmdb.org/t/p/original/mCj30FKssaM3H7h280ffSYRpEul.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d738d821b55b633fcaaeba3,
+  name: 'Where the Day Takes You (1992) BluRay 480p & 720p',
+  link:
+   'https://pahe.in/where-the-day-takes-you-1992-bluray-480p-720p/',
+  img:
+   'https://image.tmdb.org/t/p/original/nj6TG7u7ptYDZVSkYX1Mq0AHXAZ.jpg',
+  __v: 0 }
+{ _id: 5d738d791b55b633fcaaeb95,
+  name: 'Hex (2018) 720p WEB-DL 575MB nItRo',
+  link: 'https://www.300mbfilms.io/hex-2018-720p-web-dl-575mb-nitro',
+  img: 'https://i.imgur.com/HyGMXPt.jpg',
+  __v: 0 }
+{ _id: 5d738d7b1b55b633fcaaeb9a,
+  name: 'Elite S02E07 720p WEBRip HEVC 212.41MB',
+  link:
+   'https://www.mkvcage.me/elite-s02e07-720p-webrip-hevc-212-41mb/',
+  img: 'https://images2.imagebam.com/5b/1e/6b/db1bd61314581852.jpg',
+  __v: 0 }
+{ _id: 5d738d7c1b55b633fcaaeb9b,
+  name: 'The Wind (2018) BRRip 575MB nItRo',
+  link: 'https://www.300mbfilms.io/the-wind-2018-brrip-575mb-nitro',
+  img: 'https://i.imgur.com/cot8AwX.jpg',
+  __v: 0 }
+{ _id: 5d738d821b55b633fcaaeba4,
+  name: 'Preacher => Update ->  S04E07.720p.WEBRip',
+  link: 'https://psarips.eu/tv-show/preacher/',
+  img:
+   'https://image.tmdb.org/t/p/original/ey1WQajA25E5sFGHSApcqSWUSEc.jpg',
+  __v: 0 }
+undefined
+undefined
+{ _id: 5d738d821b55b633fcaaeba5,
+  name: 'Vampire Hunter D: Bloodlust (2000) BluRay 480p & 720p',
+  link:
+   'https://pahe.in/vampire-hunter-d-bloodlust-2000-bluray-480p-720p/',
+  img:
+   'https://image.tmdb.org/t/p/original/Aq2bGpoXowUfqWhp6aRMlmYuj2F.jpg',
+  __v: 0 }
+{ _id: 5d738d831b55b633fcaaeba6,
+  name: 'Elite S02E05 720p WEBRip HEVC 250.56MB',
+  link:
+   'https://www.mkvcage.me/elite-s02e05-720p-webrip-hevc-250-56mb/',
+  img: 'https://images2.imagebam.com/5b/1e/6b/db1bd61314581852.jpg',
+  __v: 0 }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
