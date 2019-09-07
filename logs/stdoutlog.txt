@@ -7338,3 +7338,330 @@ MkvCage.me error: Link name exists!
   img: 'https://images2.imagebam.com/a0/ce/d8/490a5b1314538580.jpg',
   __v: 0 }
 undefined
+Now running paheInFunction
+Now running mkvcageMeFunction
+Now running threeHundredFunction
+Now running psaripsFunction
+Now running ytspmFunction
+Now running ytsltFunction
+Now running tamilmvFunction
+{ _id: 5d68e68c4b57ad3bec89623d,
+  name: 'cinebot_next_run_at',
+  url: '8:03:45 am' }
+{ _id: 5d68e6704b57ad3bec89623c,
+  name: 'cinebot_last_ran_at',
+  url: '7:48:45 am' }
+yts.pm error: Link name exists!
+yts.pm error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+Pahe.in error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+yts.lt error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+300mbfilms.io error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+{ _id: 5d731389e5f4de0c64e205ee,
+  name: 'Dauntless [2019]',
+  link: 'https://yts.pm/movies/dauntless-2019',
+  img:
+   'https://image.tmdb.org/t/p/original/tGibQteF6LBPeJ0rxohBOHbz5Vk.jpg',
+  __v: 0 }
+{ _id: 5d731389e5f4de0c64e205ef,
+  name: 'Paramedics [2016]',
+  link: 'https://yts.pm/movies/paramedics-2016',
+  img:
+   'https://image.tmdb.org/t/p/original/lNLzQi4Wf0V6JcDY4ZugFQacsPy.jpg',
+  __v: 0 }
+{ _id: 5d731389e5f4de0c64e205f0,
+  name: 'The Last Photograph [2017]',
+  link: 'https://yts.pm/movies/the-last-photograph-2017',
+  img:
+   'https://image.tmdb.org/t/p/original/tkSkkYB82D9VmCuu6Q85YG198HL.jpg',
+  __v: 0 }
+{ _id: 5d731389e5f4de0c64e205f1,
+  name: 'The Fanatic [2019]',
+  link: 'https://yts.pm/movies/the-fanatic-2019',
+  img:
+   'https://image.tmdb.org/t/p/original/8Ru5mAKyaRbFpANkhVlPzcOkqFB.jpg',
+  __v: 0 }
+{ _id: 5d731389e5f4de0c64e205f3,
+  name: 'Banking on Bitcoin [2016]',
+  link: 'https://yts.pm/movies/banking-on-bitcoin-2016',
+  img:
+   'https://image.tmdb.org/t/p/original/umnDgaJ0XFcxaXWhV76ksOtDddw.jpg',
+  __v: 0 }
+{ _id: 5d731389e5f4de0c64e205f4,
+  name: 'A Model Daughter: The Killing of Caroline Byrne [2009]',
+  link:
+   'https://yts.pm/movies/a-model-daughter-the-killing-of-caroline-byrne-2009',
+  img:
+   'https://image.tmdb.org/t/p/original/lw3b9jLrZ6mJKkdvrhqtIPRPQgL.jpg',
+  __v: 0 }
+{ _id: 5d731389e5f4de0c64e205f5,
+  name: 'Boy Genius [2019]',
+  link: 'https://yts.pm/movies/boy-genius-2019',
+  img:
+   'https://image.tmdb.org/t/p/original/l8p1fcUaqGJJMvPFtnXC2Uz079f.jpg',
+  __v: 0 }
+{ _id: 5d731389e5f4de0c64e205f6,
+  name: 'Eternal Code [2019]',
+  link: 'https://yts.pm/movies/eternal-code-2019',
+  img:
+   'https://image.tmdb.org/t/p/original/h1iHp7IYRSnNB2YBG8lxl8FbTaz.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d731389e5f4de0c64e205f9,
+  name: 'Uncle Art [2018]',
+  link: 'https://yts.pm/movies/uncle-art-2018',
+  img:
+   'https://image.tmdb.org/t/p/original/h4m6WGh9odB9YH7NQuxpi13Uf2A.jpg',
+  __v: 0 }
+{ _id: 5d731389e5f4de0c64e205fa,
+  name: 'Joe Cocker: Mad Dog with Soul [2017]',
+  link: 'https://yts.pm/movies/joe-cocker-mad-dog-with-soul-2017',
+  img:
+   'https://image.tmdb.org/t/p/original/gz9u6ur4o3TiA9kuabhzaKSF81u.jpg',
+  __v: 0 }
+{ _id: 5d731389e5f4de0c64e205fb,
+  name: 'Ryan Hamilton: Happy Face [2017]',
+  link: 'https://yts.pm/movies/ryan-hamilton-happy-face-2017',
+  img:
+   'https://image.tmdb.org/t/p/original/dgwgzeCd7kLxxOONNABTLn4QIiA.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d73138ae5f4de0c64e205fc,
+  name: 'The Wind [2019]',
+  link: 'https://yts.pm/movies/the-wind-2019',
+  img:
+   'https://image.tmdb.org/t/p/original/kcfPHZHSQODLCWdkUVLYATNyEVo.jpg',
+  __v: 0 }
+{ _id: 5d73138ae5f4de0c64e205fd,
+  name: 'Late Night [2019]',
+  link: 'https://yts.pm/movies/late-night-2019',
+  img:
+   'https://image.tmdb.org/t/p/original/xxwb5KBqS0SHsUcyLgWMk3vuVxY.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+PSARips error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d731389e5f4de0c64e205f2,
+  name: 'Christmas Break-In [2018]',
+  link: 'https://yts.pm/movies/christmas-break-in-2018',
+  img:
+   'https://image.tmdb.org/t/p/original/1ZjAYeIxwuXdqoavs265kkEBiIj.jpg',
+  __v: 0 }
+{ _id: 5d731389e5f4de0c64e205f7,
+  name: 'Amazing Grace [2019]',
+  link: 'https://yts.pm/movies/amazing-grace-2019',
+  img:
+   'https://image.tmdb.org/t/p/original/gSipFYPRTESPf9RD6c6nX9JRtqT.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+{ _id: 5d731389e5f4de0c64e205f8,
+  name: 'Hex [2018]',
+  link: 'https://yts.pm/movies/hex-2018',
+  img:
+   'https://image.tmdb.org/t/p/original/fhpl0NYcwQ8oUmur30L0ANOay4L.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d73138be5f4de0c64e205fe,
+  name: 'Blinded by the Light [2019]',
+  link: 'https://yts.pm/movies/blinded-by-the-light-2019',
+  img:
+   'https://image.tmdb.org/t/p/original/vdWzIFpiUcV2uNGUrmgbtyNK2I0.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+{ _id: 5d73138be5f4de0c64e205ff,
+  name: 'Robert Williams Mr. Bitchin\' [2013]',
+  link: 'https://yts.pm/movies/robert-williams-mr-bitchin-2013',
+  img:
+   'https://image.tmdb.org/t/p/original/kBEa8DbsuJPfyfOcpfetMEgJ31Q.jpg',
+  __v: 0 }
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+Tamilmv error: Link name exists!
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+MkvCage.me error: Link name exists!
+{ _id: 5d73138ee5f4de0c64e20600,
+  name: 'Head Full of Honey (2018) 1080p BRRip HEVC 2.16GB',
+  link:
+   'https://www.mkvcage.me/head-full-of-honey-2018-1080p-brrip-hevc-2-16gb/',
+  img: 'https://images2.imagebam.com/79/c3/65/f613581314539906.jpg',
+  __v: 0 }
+undefined
